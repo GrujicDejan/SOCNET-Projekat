@@ -1,4 +1,4 @@
-package model.edge;
+package model.link;
 
 public class MarkedLink {
 	

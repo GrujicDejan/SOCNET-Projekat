@@ -13,8 +13,8 @@ import edu.uci.ics.jung.io.graphml.GraphMLReader2;
 import edu.uci.ics.jung.io.graphml.GraphMetadata;
 import edu.uci.ics.jung.io.graphml.HyperEdgeMetadata;
 import edu.uci.ics.jung.io.graphml.NodeMetadata;
-import model.edge.Mark;
-import model.edge.MarkedLink;
+import model.link.Mark;
+import model.link.MarkedLink;
 import model.node.Node;
 
 public class Import {
@@ -68,7 +68,6 @@ public class Import {
 
 		try {
 			UndirectedSparseGraph<Node, MarkedLink> g = reader.readGraph();
-			System.out.println(g);
 			return g;
 		} catch (GraphIOException e) {
 			System.out.println("Greska prilikom ucitavanja mreze" + e);

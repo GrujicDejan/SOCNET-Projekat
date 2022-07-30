@@ -9,8 +9,8 @@ import org.apache.commons.collections15.Transformer;
 
 import edu.uci.ics.jung.graph.UndirectedSparseGraph;
 import edu.uci.ics.jung.io.GraphMLWriter;
-import model.edge.Mark;
-import model.edge.MarkedLink;
+import model.link.Mark;
+import model.link.MarkedLink;
 import model.node.Node;
 
 public class Export {

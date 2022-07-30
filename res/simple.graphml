@@ -16,16 +16,16 @@
     <node id="n9"/>
     <node id="n10"/>
     <edge source="n0" target="n2" mark = "1"/>
-    <edge source="n1" target="n2" mark = "-1"/>
+    <edge source="n1" target="n2" mark = "1"/>
     <edge source="n2" target="n3" mark = "1"/>
     <edge source="n3" target="n5" mark = "1"/>
-    <edge source="n3" target="n4" mark = "1"/>
-    <edge source="n4" target="n6" mark = "-1"/>
+    <edge source="n3" target="n4" mark = "-1"/>
+    <edge source="n4" target="n6" mark = "1"/>
     <edge source="n6" target="n5" mark = "1"/>
     <edge source="n5" target="n7" mark = "1"/>
-    <edge source="n6" target="n8" mark = "-1"/>
+    <edge source="n6" target="n8" mark = "1"/>
     <edge source="n8" target="n7" mark = "1"/>
-    <edge source="n8" target="n9" mark = "-1"/>
+    <edge source="n8" target="n9" mark = "1"/>
     <edge source="n8" target="n10" mark = "1"/>
   </graph>
 </graphml>
