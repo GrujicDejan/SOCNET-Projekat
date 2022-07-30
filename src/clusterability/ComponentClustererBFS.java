@@ -14,13 +14,13 @@ import edu.uci.ics.jung.io.GraphIOException;
 import interfaces.ComponentClustererU;
 import model.link.LinkInfo;
 import model.link.Mark;
-import model.link.MarkedLink;
+import model.node.ClusterNode;
 
 public class ComponentClustererBFS<V, E> implements ComponentClustererU<V, E> {
 
 	private UndirectedSparseGraph<V, E> graph;
+	private UndirectedSparseGraph<ClusterNode, E> clusterNetwork;
 	private List<UndirectedSparseGraph<V, E>> components;
-	
 	private List<UndirectedSparseGraph<V, E>> clustersWithNegativeLink = new ArrayList<>();
 	private List<UndirectedSparseGraph<V, E>> clustersWithoutNegativeLink = new ArrayList<>();
 	List<LinkInfo<V, E>> negativeEdges = new ArrayList<>();
@@ -115,6 +115,41 @@ public class ComponentClustererBFS<V, E> implements ComponentClustererU<V, E> {
 		}
 	}
 	
+	public void generateClusterNetwork() {
+		for (int i = 0; i < this.components.size(); i++) {
+			UndirectedSparseGraph<V, E> cluster_i = this.components.get(i);
+			ClusterNode cn_i = new ClusterNode("cn_" + i, "" + i, cluster_i.getVertexCount(), this.clustersWithoutNegativeLink.contains(cluster_i));
+			this.clusterNetwork.addVertex(cn_i);
+			for (int j = i + 1; j < this.components.size(); j++) {
+				UndirectedSparseGraph<V, E> cluster_j = this.components.get(j);
+				
+				E link = conectedClusters(cluster_i, cluster_j); // check each with each
+				
+				if (link != null) {
+					ClusterNode cn_j = new ClusterNode("cn_" + j, "" + j, cluster_j.getVertexCount(), this.clustersWithoutNegativeLink.contains(cluster_j));
+					this.clusterNetwork.addEdge(link, cn_i, cn_j);
+				}
+				
+			}
+		}
+	}
+
+	private E conectedClusters(UndirectedSparseGraph<V, E> c1, UndirectedSparseGraph<V, E> c2) {
+		for (V v1 : c1.getVertices()) {
+			for (V v2 : c2.getVertices()) {
+				E link = this.graph.findEdge(v1, v2);
+				if (link != null) {
+					return link;
+				}
+			}
+		}
+		return null;
+	}
+	
+	public UndirectedSparseGraph<ClusterNode, E> getClusterNetwork() {
+		return this.clusterNetwork;
+	}
+
 	public boolean isClusterable() {
 		return clustersWithNegativeLink.size() == 0;
 	}
