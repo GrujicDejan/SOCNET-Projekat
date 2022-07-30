@@ -6,12 +6,15 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
+
 import org.apache.commons.collections15.Transformer;
+
 import edu.uci.ics.jung.graph.UndirectedSparseGraph;
-import edu.uci.ics.jung.io.GraphMLWriter;
 import interfaces.ComponentClustererU;
+import io.Export;
 import model.edge.Mark;
-import model.edge.MarkedEdge;
+import model.edge.MarkedLink;
+import model.node.Node;
 
 public class ComponentClustererBFS<V, E> implements ComponentClustererU<V, E> {
 
@@ -19,9 +22,9 @@ public class ComponentClustererBFS<V, E> implements ComponentClustererU<V, E> {
 	private List<UndirectedSparseGraph<V, E>> components;
 	
 	private List<UndirectedSparseGraph<V, E>> clusterWithNegativeLink = new ArrayList<>();
-	List<MarkedEdge<E, V>> negativeEdges = new ArrayList<>();
+	List<MarkedLink> negativeEdges = new ArrayList<>();
 	
-	private Transformer<E, MarkedEdge<E, V>> edgeTransformer;
+	private Transformer<E, Mark> markTransformer;
 
 	HashSet<V> visited = new HashSet<V>();
 
@@ -94,16 +97,16 @@ public class ComponentClustererBFS<V, E> implements ComponentClustererU<V, E> {
 			E link = this.graph.findEdge(n1, n2);
 			
 			if (link != null) {
-				MarkedEdge<E, V> edge = edgeTransformer.transform(link);
+				Mark mark = Mark.POSITIVE;//markTransformer.transform(link);
 				
-				if (edge.getMark() == Mark.NEGATIVE) {
+				if (mark == Mark.NEGATIVE) {
 					if (component.findEdge(n1, n2) == null) {
 						component.addEdge(link, n1, n2);
 					}
 					if (!hasNegativeLink) {
 						clusterWithNegativeLink.add(component);
 					}
-					this.negativeEdges.add(new MarkedEdge<E, V>(link, n1, n2, Mark.NEGATIVE));
+					this.negativeEdges.add(new MarkedLink(Mark.NEGATIVE));
 					hasNegativeLink = true;
 				}
 				
@@ -112,9 +115,11 @@ public class ComponentClustererBFS<V, E> implements ComponentClustererU<V, E> {
 		
 	}
 	
-//	public void exportComponentToGraphML(String fileName) {
-//		
-//	}
+	@SuppressWarnings("unchecked")
+	public void exportComponentToGraphML(String fileName) {
+		Export export = new Export();
+		export.exportToGraphML(fileName, (UndirectedSparseGraph<Node, MarkedLink>) graph);
+	}
 
 	// metode propisane interfejsom ComponentClustererU<V, E>
 	@Override
