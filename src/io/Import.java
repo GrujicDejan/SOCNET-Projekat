@@ -13,15 +13,15 @@ import edu.uci.ics.jung.io.graphml.GraphMLReader2;
 import edu.uci.ics.jung.io.graphml.GraphMetadata;
 import edu.uci.ics.jung.io.graphml.HyperEdgeMetadata;
 import edu.uci.ics.jung.io.graphml.NodeMetadata;
-import model.link.Mark;
-import model.link.MarkedLink;
+import model.link.Sign;
+import model.link.SignedLink;
 import model.node.Node;
 
 public class Import {
 	
 	BufferedReader fileReader;
 	
-	public UndirectedSparseGraph<Node, MarkedLink> importGraph(String fileName) {
+	public UndirectedSparseGraph<Node, SignedLink> importGraph(String fileName) {
 		
 		try {
 			fileReader = new BufferedReader(new FileReader(fileName));
@@ -30,9 +30,9 @@ public class Import {
 			e1.printStackTrace();
 		}
 
-		Transformer<GraphMetadata, UndirectedSparseGraph<Node, MarkedLink>> gt = new Transformer<GraphMetadata, UndirectedSparseGraph<Node, MarkedLink>>() {
-			public UndirectedSparseGraph<Node, MarkedLink> transform(GraphMetadata metadata) {
-				return new UndirectedSparseGraph<Node, MarkedLink>();
+		Transformer<GraphMetadata, UndirectedSparseGraph<Node, SignedLink>> gt = new Transformer<GraphMetadata, UndirectedSparseGraph<Node, SignedLink>>() {
+			public UndirectedSparseGraph<Node, SignedLink> transform(GraphMetadata metadata) {
+				return new UndirectedSparseGraph<Node, SignedLink>();
 			}
 		};
 
@@ -44,30 +44,30 @@ public class Import {
 			}
 		};
 
-		Transformer<EdgeMetadata, MarkedLink> lt = new Transformer<EdgeMetadata, MarkedLink>() {
-			public MarkedLink transform(EdgeMetadata metadata) {
+		Transformer<EdgeMetadata, SignedLink> lt = new Transformer<EdgeMetadata, SignedLink>() {
+			public SignedLink transform(EdgeMetadata metadata) {
 				String m = metadata.getProperty("sign");
-				Mark mark = Mark.POSITIVE;
+				Sign sign = Sign.POSITIVE;
 				if (m.equals("NEGATIVE")) {
-					mark = Mark.NEGATIVE;
+					sign = Sign.NEGATIVE;
 				}
-				MarkedLink ml = new MarkedLink(mark);
+				SignedLink ml = new SignedLink(sign);
 				ml.setId(metadata.getSource() + "-" + metadata.getTarget());
-				return new MarkedLink(mark);
+				return new SignedLink(sign);
 			}
 		};
 
-		Transformer<HyperEdgeMetadata, MarkedLink> ht = new Transformer<HyperEdgeMetadata, MarkedLink>() {
-			public MarkedLink transform(HyperEdgeMetadata metadata) {
-				return new MarkedLink();
+		Transformer<HyperEdgeMetadata, SignedLink> ht = new Transformer<HyperEdgeMetadata, SignedLink>() {
+			public SignedLink transform(HyperEdgeMetadata metadata) {
+				return new SignedLink();
 			}
 		};
 
-		GraphMLReader2<UndirectedSparseGraph<Node, MarkedLink>, Node, MarkedLink> reader = new GraphMLReader2<UndirectedSparseGraph<Node, MarkedLink>, Node, MarkedLink>(
+		GraphMLReader2<UndirectedSparseGraph<Node, SignedLink>, Node, SignedLink> reader = new GraphMLReader2<UndirectedSparseGraph<Node, SignedLink>, Node, SignedLink>(
 				fileReader, gt, nt, lt, ht);
 
 		try {
-			UndirectedSparseGraph<Node, MarkedLink> g = (UndirectedSparseGraph<Node, MarkedLink>) reader.readGraph();
+			UndirectedSparseGraph<Node, SignedLink> g = (UndirectedSparseGraph<Node, SignedLink>) reader.readGraph();
 			return g;
 		} catch (GraphIOException e) {
 			System.out.println("Greska prilikom ucitavanja mreze" + e);

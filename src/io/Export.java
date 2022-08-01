@@ -9,15 +9,15 @@ import org.apache.commons.collections15.Transformer;
 
 import edu.uci.ics.jung.graph.UndirectedSparseGraph;
 import edu.uci.ics.jung.io.GraphMLWriter;
-import model.link.Mark;
-import model.link.MarkedLink;
+import model.link.Sign;
+import model.link.SignedLink;
 import model.node.Node;
 
 public class Export {
 
-	GraphMLWriter<Node, MarkedLink> writer = new GraphMLWriter<Node, MarkedLink>();
+	GraphMLWriter<Node, SignedLink> writer = new GraphMLWriter<Node, SignedLink>();
 
-	public void exportToGraphML(String fileName, UndirectedSparseGraph<Node, MarkedLink> g) {
+	public void exportToGraphML(String fileName, UndirectedSparseGraph<Node, SignedLink> g) {
 
 		writer.setVertexIDs(new Transformer<Node, String>() {
 			public String transform(Node n) {
@@ -25,35 +25,21 @@ public class Export {
 			}
 		});
 
-		writer.setEdgeIDs(new Transformer<MarkedLink, String>() {
-			public String transform(MarkedLink ml) {
+		writer.setEdgeIDs(new Transformer<SignedLink, String>() {
+			public String transform(SignedLink ml) {
 				return ml.getId();
 			}
 		});
 
-		writer.addEdgeData("sign", "sign", "", new Transformer<MarkedLink, String>() {
-			public String transform(MarkedLink ml) {
-				if (ml.getMark() == Mark.POSITIVE) {
+		writer.addEdgeData("sign", "sign", "", new Transformer<SignedLink, String>() {
+			public String transform(SignedLink ml) {
+				if (ml.getSign() == Sign.POSITIVE) {
 					return "1";
 				} else {
 					return "-1";
 				}
 			}
 		});
-		
-//		GraphMLMetadata<MarkedLink> gmlm = new GraphMLMetadata<MarkedLink>("mark", "", new Transformer<MarkedLink, String>() {
-//			public String transform(MarkedLink ml) {
-//				if (ml.getMark() == Mark.POSITIVE) {
-//					return "1";
-//				} else {
-//					return "-1";
-//				}
-//			}
-//		});
-//		Map<String, GraphMLMetadata<MarkedLink>> edge_map = new HashMap<>();
-//		edge_map.put("mark", gmlm);
-//		
-//		writer.setEdgeData(edge_map);
 		
 		
 		try {

@@ -1,13 +1,13 @@
 package model.link;
 
-public class LinkInfo<V, E> extends MarkedLink {
+public class LinkInfo<V, E> extends SignedLink {
 	
 	private V source;
 	private V target;
 	private E link;
 	
-	public LinkInfo(Mark mark, V source, V target, E link) {
-		super(mark);
+	public LinkInfo(Sign sign, V source, V target, E link) {
+		super(sign);
 		this.source = source;
 		this.target = target;
 		this.link = link;

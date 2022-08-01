@@ -13,7 +13,7 @@ import edu.uci.ics.jung.graph.UndirectedSparseGraph;
 import edu.uci.ics.jung.io.GraphIOException;
 import interfaces.ComponentClustererU;
 import model.link.LinkInfo;
-import model.link.Mark;
+import model.link.Sign;
 import model.node.ClusterNode;
 
 public class ComponentClustererBFS<V, E> implements ComponentClustererU<V, E> {
@@ -25,16 +25,16 @@ public class ComponentClustererBFS<V, E> implements ComponentClustererU<V, E> {
 	private List<UndirectedSparseGraph<V, E>> clustersWithoutNegativeLink = new ArrayList<>();
 	List<LinkInfo<V, E>> negativeEdges = new ArrayList<>();
 	
-	private Transformer<E, Mark> markTransformer;
+	private Transformer<E, Sign> signTransformer;
 
 	HashSet<V> visited = new HashSet<>();
 
-	public ComponentClustererBFS(UndirectedSparseGraph<V, E> g, Transformer<E, Mark> markTransformer) {
+	public ComponentClustererBFS(UndirectedSparseGraph<V, E> g, Transformer<E, Sign> signTransformer) {
 		if (g == null || g.getVertexCount() == 0)
 			throw new IllegalArgumentException("Empty network");
 		this.graph = g;
 		this.components = new ArrayList<>();
-		this.markTransformer = markTransformer;
+		this.signTransformer = signTransformer;
 		identifyComponents();
 	}
 
@@ -67,7 +67,7 @@ public class ComponentClustererBFS<V, E> implements ComponentClustererU<V, E> {
 			while (nit.hasNext()) {
 				V neighbor = nit.next();
 
-				if (markTransformer.transform(this.graph.findEdge(current, neighbor)) != Mark.NEGATIVE) {
+				if (signTransformer.transform(this.graph.findEdge(current, neighbor)) != Sign.NEGATIVE) {
 				
 					if (!visited.contains(neighbor)) {
 						visited.add(neighbor);
@@ -102,9 +102,9 @@ public class ComponentClustererBFS<V, E> implements ComponentClustererU<V, E> {
 				E link = this.graph.findEdge(n1, n2);
 //				System.out.println(n1 + "-" + n2 + " ==> " + link + " |||| " + negativeLink);
 				if (link != null) {
-					Mark mark = markTransformer.transform(link);
+					Sign sign = signTransformer.transform(link);
 					
-					if (mark != Mark.POSITIVE) {
+					if (sign != Sign.POSITIVE) {
 
 						if (component.findEdge(n1, n2) == null)
 							component.addEdge(link, n1, n2);
@@ -113,7 +113,7 @@ public class ComponentClustererBFS<V, E> implements ComponentClustererU<V, E> {
 							clustersWithNegativeLink.add(component);
 						}
 						
-						this.negativeEdges.add(new LinkInfo<V, E>(mark, n1, n2, link));
+						this.negativeEdges.add(new LinkInfo<V, E>(sign, n1, n2, link));
 						negativeLink = true;
 					}
 				}

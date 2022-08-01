@@ -9,8 +9,8 @@ import edu.uci.ics.jung.io.GraphIOException;
 import io.Export;
 import io.Import;
 import model.link.LinkInfo;
-import model.link.Mark;
-import model.link.MarkedLink;
+import model.link.Sign;
+import model.link.SignedLink;
 import model.node.ClusterNode;
 import model.node.Node;
 
@@ -19,28 +19,28 @@ public class TestMain {
 	public static <V, E> void main(String[] args) throws GraphIOException {
 		
 		Import imp = new Import();
-		UndirectedSparseGraph<Node, MarkedLink> g1 =  imp.importGraph("res/slashdot.graphml");
+		UndirectedSparseGraph<Node, SignedLink> g1 =  imp.importGraph("res/slashdot.graphml");
 		
 		Export e = new Export();
 		e.exportToGraphML("test3", g1);
 		
-		Transformer<MarkedLink, Mark> markTransformer = new Transformer<MarkedLink, Mark>() {
+		Transformer<SignedLink, Sign> signTransformer = new Transformer<SignedLink, Sign>() {
 			@Override
-			public Mark transform(MarkedLink ml) {
-				return ml.getMark();
+			public Sign transform(SignedLink ml) {
+				return ml.getSign();
 			}
 
 		};
 		
 		@SuppressWarnings("unchecked")
-		ComponentClustererBFS<V, E> ccbfs = new ComponentClustererBFS<V, E>((UndirectedSparseGraph<V, E>) g1, (Transformer<E, Mark>) markTransformer);
+		ComponentClustererBFS<V, E> ccbfs = new ComponentClustererBFS<V, E>((UndirectedSparseGraph<V, E>) g1, (Transformer<E, Sign>) signTransformer);
 		
 //		ccbfs.exportComponentToGraphML("test2");
 		
 		List<UndirectedSparseGraph<V, E>> comps = ccbfs.getComponents();
 		System.out.println(comps.size());
 //		for (int i = 0; i < comps.size(); i++) {
-//			e.exportToGraphML("comp_"+i, (UndirectedSparseGraph<Node, MarkedLink>) comps.get(i));
+//			e.exportToGraphML("comp_"+i, (UndirectedSparseGraph<Node, SignedLink>) comps.get(i));
 //		}
 //
 		System.out.println("is clusterable => " + ccbfs.isClusterable());
