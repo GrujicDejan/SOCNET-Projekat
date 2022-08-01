@@ -31,7 +31,7 @@ public class Export {
 			}
 		});
 
-		writer.addEdgeData("mark", "mark", "", new Transformer<MarkedLink, String>() {
+		writer.addEdgeData("sign", "sign", "", new Transformer<MarkedLink, String>() {
 			public String transform(MarkedLink ml) {
 				if (ml.getMark() == Mark.POSITIVE) {
 					return "1";

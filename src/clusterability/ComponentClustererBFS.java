@@ -19,7 +19,7 @@ import model.node.ClusterNode;
 public class ComponentClustererBFS<V, E> implements ComponentClustererU<V, E> {
 
 	private UndirectedSparseGraph<V, E> graph;
-	private UndirectedSparseGraph<ClusterNode, E> clusterNetwork;
+	private UndirectedSparseGraph<ClusterNode, E> clusterNetwork = new UndirectedSparseGraph<ClusterNode, E>();
 	private List<UndirectedSparseGraph<V, E>> components;
 	private List<UndirectedSparseGraph<V, E>> clustersWithNegativeLink = new ArrayList<>();
 	private List<UndirectedSparseGraph<V, E>> clustersWithoutNegativeLink = new ArrayList<>();
@@ -27,13 +27,13 @@ public class ComponentClustererBFS<V, E> implements ComponentClustererU<V, E> {
 	
 	private Transformer<E, Mark> markTransformer;
 
-	HashSet<V> visited = new HashSet<V>();
+	HashSet<V> visited = new HashSet<>();
 
 	public ComponentClustererBFS(UndirectedSparseGraph<V, E> g, Transformer<E, Mark> markTransformer) {
 		if (g == null || g.getVertexCount() == 0)
 			throw new IllegalArgumentException("Empty network");
 		this.graph = g;
-		components = new ArrayList<UndirectedSparseGraph<V, E>>();
+		this.components = new ArrayList<>();
 		this.markTransformer = markTransformer;
 		identifyComponents();
 	}
@@ -48,33 +48,42 @@ public class ComponentClustererBFS<V, E> implements ComponentClustererU<V, E> {
 			}
 		}
 		
+		generateClusterNetwork();
+
 		Collections.sort(components, (c1, c2) -> c2.getVertexCount() - c1.getVertexCount());
 	}
 
 	private void identifyComponent(V startNode) {
-		LinkedList<V> queue = new LinkedList<V>();
+		LinkedList<V> queue = new LinkedList<>();
 		queue.add(startNode);
-		visited.add(startNode);
 		UndirectedSparseGraph<V, E> component = new UndirectedSparseGraph<V, E>();
 		component.addVertex(startNode);
-		
+
 		while (!queue.isEmpty()) {
 			V current = queue.removeFirst();
 			
 			Iterator<V> nit = graph.getNeighbors(current).iterator();
+			
 			while (nit.hasNext()) {
 				V neighbor = nit.next();
-				if (!visited.contains(neighbor)) {
-					visited.add(neighbor);
-					queue.addLast(neighbor);
-					component.addVertex(neighbor);
-				}
-				if (component.findEdge(current, neighbor) == null) {
-					E link = graph.findEdge(current, neighbor);
-					component.addEdge(link, current, neighbor);
+
+				if (markTransformer.transform(this.graph.findEdge(current, neighbor)) != Mark.NEGATIVE) {
+				
+					if (!visited.contains(neighbor)) {
+						visited.add(neighbor);
+						queue.addLast(neighbor);
+						component.addVertex(neighbor);
+					}
+					if (component.findEdge(current, neighbor) == null) {
+						E link = graph.findEdge(current, neighbor);
+						component.addEdge(link, current, neighbor);
+					}
+				
 				}
 			}
+			
 		}
+		
 		identifyNegativeLinkInComponent(component);
 		components.add(component);
 	}
@@ -85,9 +94,9 @@ public class ComponentClustererBFS<V, E> implements ComponentClustererU<V, E> {
 		
 		List<V> nodes = new ArrayList<>(component.getVertices());
 		
-		for (int i = 0; i < nodes.size() - 1 && !negativeLink; i++) {
+		for (int i = 0; i < nodes.size() - 1; i++) {
 			V n1 = nodes.get(i);
-			for (int j = i + 1; j < nodes.size() && !negativeLink; j++) {
+			for (int j = i + 1; j < nodes.size(); j++) {
 				V n2 = nodes.get(j);
 				
 				E link = this.graph.findEdge(n1, n2);
@@ -97,12 +106,13 @@ public class ComponentClustererBFS<V, E> implements ComponentClustererU<V, E> {
 					
 					if (mark != Mark.POSITIVE) {
 
-						if (component.findEdge(n1, n2) == null) {
+						if (component.findEdge(n1, n2) == null)
 							component.addEdge(link, n1, n2);
-						}
+						
 						if (!negativeLink) {
 							clustersWithNegativeLink.add(component);
 						}
+						
 						this.negativeEdges.add(new LinkInfo<V, E>(mark, n1, n2, link));
 						negativeLink = true;
 					}
@@ -115,11 +125,13 @@ public class ComponentClustererBFS<V, E> implements ComponentClustererU<V, E> {
 		}
 	}
 	
+	
 	public void generateClusterNetwork() {
 		for (int i = 0; i < this.components.size(); i++) {
 			UndirectedSparseGraph<V, E> cluster_i = this.components.get(i);
 			ClusterNode cn_i = new ClusterNode("cn_" + i, "" + i, cluster_i.getVertexCount(), this.clustersWithoutNegativeLink.contains(cluster_i));
 			this.clusterNetwork.addVertex(cn_i);
+			
 			for (int j = i + 1; j < this.components.size(); j++) {
 				UndirectedSparseGraph<V, E> cluster_j = this.components.get(j);
 				

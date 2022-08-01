@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="r" attr.type="int" for="node" id="r"/>
+    <key attr.name="g" attr.type="int" for="node" id="g"/>
+    <key attr.name="b" attr.type="int" for="node" id="b"/>
+    <key attr.name="x" attr.type="float" for="node" id="x"/>
+    <key attr.name="y" attr.type="float" for="node" id="y"/>
+    <key attr.name="size" attr.type="float" for="node" id="size"/>
+    <key attr.name="sign" attr.type="string" for="edge" id="sign"/>
+    <graph edgedefault="undirected">
+        <node id="0">
+            <data key="label"> 0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-145.2538</data>
+            <data key="y">-358.49585</data>
+        </node>
+        <node id="1">
+            <data key="label"> 1</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">137.44362</data>
+            <data key="y">-89.44931</data>
+        </node>
+        <node id="2">
+            <data key="label"> 2</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-198.46135</data>
+            <data key="y">-306.95764</data>
+        </node>
+        <node id="3">
+            <data key="label"> 3</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-22.564837</data>
+            <data key="y">503.68408</data>
+        </node>
+        <node id="4">
+            <data key="label"> 4</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-466.2832</data>
+            <data key="y">-466.1518</data>
+        </node>
+        <node id="5">
+            <data key="label"> 5</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-454.42673</data>
+            <data key="y">264.3653</data>
+        </node>
+        <node id="6">
+            <data key="label"> 6</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">247.6006</data>
+            <data key="y">-472.96814</data>
+        </node>
+        <node id="7">
+            <data key="label"> 7</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">161.19032</data>
+            <data key="y">-58.717438</data>
+        </node>
+        <node id="8">
+            <data key="label"> 8</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-121.827835</data>
+            <data key="y">-142.10898</data>
+        </node>
+        <node id="9">
+            <data key="label"> 9</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">420.36383</data>
+            <data key="y">190.50037</data>
+        </node>
+        <node id="10">
+            <data key="label"> 10</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">508.3228</data>
+            <data key="y">-136.09885</data>
+        </node>
+        <node id="11">
+            <data key="label"> 11</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-193.39308</data>
+            <data key="y">-248.4351</data>
+        </node>
+        <node id="12">
+            <data key="label"> 12</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-122.41222</data>
+            <data key="y">500.91382</data>
+        </node>
+        <node id="13">
+            <data key="label"> 13</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">297.3015</data>
+            <data key="y">280.70758</data>
+        </node>
+        <node id="14">
+            <data key="label"> 14</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">56.56221</data>
+            <data key="y">348.91443</data>
+        </node>
+        <node id="15">
+            <data key="label"> 15</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-104.16191</data>
+            <data key="y">190.29755</data>
+        </node>
+        <edge id="48862" source="0" target="3">
+            <data key="weight">1.0</data>
+            <data key="sign">NEGATIVE</data>
+        </edge>
+        <edge id="48863" source="0" target="14">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48864" source="0" target="15">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48865" source="1" target="2">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48866" source="1" target="3">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48867" source="1" target="4">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48868" source="2" target="1">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48869" source="2" target="3">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48870" source="2" target="6">
+            <data key="weight">1.0</data>
+            <data key="sign">NEGATIVE</data>
+        </edge>
+        <edge id="48871" source="3" target="0">
+            <data key="weight">1.0</data>
+            <data key="sign">NEGATIVE</data>
+        </edge>
+        <edge id="48872" source="3" target="1">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48873" source="3" target="2">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48874" source="3" target="4">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48875" source="4" target="1">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48876" source="4" target="3">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48877" source="4" target="7">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48878" source="5" target="6">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48879" source="5" target="8">
+            <data key="weight">1.0</data>
+            <data key="sign">NEGATIVE</data>
+        </edge>
+        <edge id="48880" source="6" target="2">
+            <data key="weight">1.0</data>
+            <data key="sign">NEGATIVE</data>
+        </edge>
+        <edge id="48881" source="6" target="5">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48882" source="7" target="4">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48883" source="8" target="5">
+            <data key="weight">1.0</data>
+            <data key="sign">NEGATIVE</data>
+        </edge>
+        <edge id="48884" source="8" target="10">
+            <data key="weight">1.0</data>
+            <data key="sign">NEGATIVE</data>
+        </edge>
+        <edge id="48885" source="8" target="14">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48886" source="9" target="13">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48887" source="9" target="15">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48888" source="10" target="8">
+            <data key="weight">1.0</data>
+            <data key="sign">NEGATIVE</data>
+        </edge>
+        <edge id="48889" source="10" target="11">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48890" source="10" target="12">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48891" source="11" target="10">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48892" source="11" target="12">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48893" source="12" target="10">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48894" source="12" target="11">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48895" source="13" target="9">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48896" source="14" target="0">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48897" source="14" target="8">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48898" source="15" target="0">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+        <edge id="48899" source="15" target="9">
+            <data key="weight">1.0</data>
+            <data key="sign">POSITIVE</data>
+        </edge>
+    </graph>
+</graphml>

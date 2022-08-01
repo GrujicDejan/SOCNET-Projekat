@@ -46,9 +46,9 @@ public class Import {
 
 		Transformer<EdgeMetadata, MarkedLink> lt = new Transformer<EdgeMetadata, MarkedLink>() {
 			public MarkedLink transform(EdgeMetadata metadata) {
-				int m = Integer.parseInt(metadata.getProperty("mark"));
+				String m = metadata.getProperty("sign");
 				Mark mark = Mark.POSITIVE;
-				if (m == -1) {
+				if (m.equals("NEGATIVE")) {
 					mark = Mark.NEGATIVE;
 				}
 				MarkedLink ml = new MarkedLink(mark);
@@ -67,7 +67,7 @@ public class Import {
 				fileReader, gt, nt, lt, ht);
 
 		try {
-			UndirectedSparseGraph<Node, MarkedLink> g = reader.readGraph();
+			UndirectedSparseGraph<Node, MarkedLink> g = (UndirectedSparseGraph<Node, MarkedLink>) reader.readGraph();
 			return g;
 		} catch (GraphIOException e) {
 			System.out.println("Greska prilikom ucitavanja mreze" + e);
