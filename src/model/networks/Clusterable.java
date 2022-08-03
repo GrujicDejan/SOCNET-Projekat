@@ -12,9 +12,11 @@ import edu.uci.ics.jung.graph.UndirectedSparseGraph;
 import model.link.Sign;
 
 public class Clusterable<V, E> {
+	
+	private Generator generator = new Generator();
 
 	@SuppressWarnings("unchecked")
-	private Set<V> visited(UndirectedSparseGraph<V, E> targetGraph, V src, V dst, Generator generator, Transformer<E, Sign> markTransformer){
+	private Set<V> visited(UndirectedSparseGraph<V, E> targetGraph, V src, V dst, Transformer<E, Sign> markTransformer){
 		Queue<V> queue = new LinkedList<>();
 		Set<V> visited = new HashSet<>();
 		queue.add(src);
@@ -43,7 +45,7 @@ public class Clusterable<V, E> {
 	}
 
 	@SuppressWarnings("unchecked")
-	public void addEdge(UndirectedSparseGraph<V, E> targetGraph, V src, V dst, Generator generator, Transformer<E, Sign> markTransformer) {
+	public void addEdge(UndirectedSparseGraph<V, E> targetGraph, V src, V dst, Transformer<E, Sign> markTransformer) {
 
 		Random rnd = new Random();
 		
@@ -51,9 +53,9 @@ public class Clusterable<V, E> {
 			targetGraph.addEdge(rnd.nextDouble() < 0.8 ? (E) generator.getPositiveLink() : (E) generator.getNegativeLink(), src, dst);
 		} else {
 			
-			Set<V> visitedSrc = visited(targetGraph, src, dst, generator, markTransformer);
+			Set<V> visitedSrc = visited(targetGraph, src, dst, markTransformer);
 			
-			Set<V> visitedDst = visited(targetGraph, dst, src, generator, markTransformer);
+			Set<V> visitedDst = visited(targetGraph, dst, src, markTransformer);
 			
 			
 			if (visitedSrc != null && visitedDst != null) {
