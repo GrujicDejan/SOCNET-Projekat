@@ -32,22 +32,22 @@ public class ErdosRenyiModel<V, E> {
 	}
 
 	@SuppressWarnings("unchecked")
-	public void getGraph(UndirectedSparseGraph<V, E> targetGraph) {
+	public void getGraph(UndirectedSparseGraph<V, E> graph) {
 		for (int i = 0; i < this.n; i++) {
-			targetGraph.addVertex((V) generator.getNode());
+			graph.addVertex((V) generator.getNode());
 		}
 		
 		double maxEdgeNumber = this.n * (this.n - 1) / 2.0;
 		Random rnd = new Random();
 		
-		List<V> nodes = new ArrayList<>(targetGraph.getVertices());
+		List<V> nodes = new ArrayList<>(graph.getVertices());
 		
-		while (targetGraph.getEdgeCount() < this.e) {
+		while (graph.getEdgeCount() < this.e) {
 			for (int i = 0; i < this.n - 1; i++) {
 				for (int j = i + 1; j < this.n; j++) {
-					if (rnd.nextDouble() < 1.0/maxEdgeNumber && targetGraph.findEdge(nodes.get(i), nodes.get(j)) == null) {
+					if (rnd.nextDouble() < 1.0/maxEdgeNumber && graph.findEdge(nodes.get(i), nodes.get(j)) == null) {
 						Clusterable<V, E> c = new Clusterable<>();
-						c.addEdge(targetGraph, nodes.get(i), nodes.get(j), signTransformer);
+						c.addEdge(graph, nodes.get(i), nodes.get(j), signTransformer);
 					}
 				}
 			}

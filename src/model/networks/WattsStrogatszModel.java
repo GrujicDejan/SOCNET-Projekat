@@ -15,10 +15,10 @@ public class WattsStrogatszModel<V, E> {
 	private int k;
 	private double p;
 	
-	private Transformer<E, Sign> markTransformer;
+	private Transformer<E, Sign> signTransformer;
 	private Generator generator = new Generator();
 	
-	public WattsStrogatszModel(int n, int k, double p, Transformer<E, Sign> markTransformer) {
+	public WattsStrogatszModel(int n, int k, double p, Transformer<E, Sign> signTransformer) {
 		
 		if (n <= 0) 
 			throw new IllegalArgumentException("Number of nodes must be positive!");
@@ -29,13 +29,13 @@ public class WattsStrogatszModel<V, E> {
 		if (p < 0 || p > 1)
 			throw new IllegalArgumentException("Probability must be in interval [0,1] !");
 		
-		if (markTransformer == null)
-			throw new IllegalArgumentException("markTransformer can't be null!");
+		if (signTransformer == null)
+			throw new IllegalArgumentException("signTransformer can't be null!");
 		
 		this.n = n;
 		this.k = k;
 		this.p = p;
-		this.markTransformer = markTransformer;
+		this.signTransformer = signTransformer;
 	}
 
 	@SuppressWarnings("unchecked")
@@ -49,7 +49,7 @@ public class WattsStrogatszModel<V, E> {
 		List<V> nodes = new ArrayList<>(graph.getVertices());	
 		for (int i = 0; i < this.n; i++) {
 			for (int j = 1; j <= this.k/2; j++) {
-				c.addEdge(graph, nodes.get(i), nodes.get((i + j) % this.n), markTransformer);
+				c.addEdge(graph, nodes.get(i), nodes.get((i + j) % this.n), signTransformer);
 			}
 		}
 		
@@ -65,7 +65,7 @@ public class WattsStrogatszModel<V, E> {
 						okDst = newDst != i && graph.findEdge(v1, nodes.get(newDst)) == null;
 					}
 					graph.removeEdge(graph.findEdge(v1, v2));
-					c.addEdge(graph, v1, nodes.get(newDst), markTransformer);
+					c.addEdge(graph, v1, nodes.get(newDst), signTransformer);
 				}
 			}
 		}	
