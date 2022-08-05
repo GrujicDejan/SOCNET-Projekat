@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns/graphml"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns/graphml">
+<key id="sign" for="edge">
+<desc>sign</desc>
+<default></default>
+</key>
+<graph edgedefault="undirected">
+<node id="64"/>
+<node id="38"/>
+<node id="21"/>
+<node id="77"/>
+<node id="34"/>
+<edge source="38" target="77">
+<data key="sign">1</data>
+</edge>
+<edge source="34" target="38">
+<data key="sign">1</data>
+</edge>
+<edge source="21" target="64">
+<data key="sign">1</data>
+</edge>
+<edge source="64" target="38">
+<data key="sign">1</data>
+</edge>
+<edge source="21" target="34">
+<data key="sign">1</data>
+</edge>
+</graph>
+</graphml>

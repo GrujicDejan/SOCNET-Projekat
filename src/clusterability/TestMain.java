@@ -12,6 +12,7 @@ import model.link.LinkInfo;
 import model.link.Sign;
 import model.link.SignedLink;
 import model.networks.ErdosRenyiModel;
+import model.networks.WattsStrogatszModel;
 import model.node.ClusterNode;
 import model.node.Node;
 
@@ -57,7 +58,8 @@ public class TestMain {
 //		}
 		
 		UndirectedSparseGraph<Node, SignedLink> graph = new UndirectedSparseGraph<>();
-		ErdosRenyiModel<V, E> model = new ErdosRenyiModel<V, E>(300, 600, (Transformer<E, Sign>) signTransformer);
+//		ErdosRenyiModel<V, E> model = new ErdosRenyiModel<V, E>(300, 600, (Transformer<E, Sign>) signTransformer);
+		WattsStrogatszModel<V, E> model = new WattsStrogatszModel<V, E>(100, 25, 0.4, (Transformer<E, Sign>) signTransformer);
 		model.getGraph((UndirectedSparseGraph<V, E>) graph);
 		
 		ComponentClustererBFS<V, E> ccbfs = new ComponentClustererBFS<V, E>((UndirectedSparseGraph<V, E>) graph, (Transformer<E, Sign>) signTransformer);
@@ -70,7 +72,8 @@ public class TestMain {
 			e.exportToGraphML("comp_"+i, (UndirectedSparseGraph<Node, SignedLink>) comps.get(i));
 		}
 		
-		e.exportToGraphML("erdosrenyi", graph);
+//		e.exportToGraphML("erdosrenyi", graph);
+		e.exportToGraphML("wattsstrogat", graph);
 		
 	}
 	
