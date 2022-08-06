@@ -49,7 +49,7 @@ public class WattsStrogatszModel<V, E> {
 		List<V> nodes = new ArrayList<>(graph.getVertices());	
 		for (int i = 0; i < this.n; i++) {
 			for (int j = 1; j <= this.k/2; j++) {
-				c.addEdge(graph, nodes.get(i), nodes.get((i + j) % this.n), signTransformer);
+				c.addLink(graph, nodes.get(i), nodes.get((i + j) % this.n), signTransformer);
 			}
 		}
 		
@@ -57,7 +57,7 @@ public class WattsStrogatszModel<V, E> {
 		for (int i = 0; i < this.n; i++) { 
 			V v1 = nodes.get(i);
 			for (V v2 : new ArrayList<V>(graph.getNeighbors(v1))) {
-				if (rnd.nextDouble() < this.p && graph.getNeighborCount(v1) < this.n - 1) {
+				if (rnd.nextDouble() < this.p) {
 					int newDst = 0;
 					boolean okDst = false;
 					while (!okDst) {
@@ -65,7 +65,7 @@ public class WattsStrogatszModel<V, E> {
 						okDst = newDst != i && graph.findEdge(v1, nodes.get(newDst)) == null;
 					}
 					graph.removeEdge(graph.findEdge(v1, v2));
-					c.addEdge(graph, v1, nodes.get(newDst), signTransformer);
+					c.addLink(graph, v1, nodes.get(newDst), signTransformer);
 				}
 			}
 		}	

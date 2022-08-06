@@ -47,7 +47,7 @@ public class ErdosRenyiModel<V, E> {
 				for (int j = i + 1; j < this.n; j++) {
 					if (rnd.nextDouble() < 1.0/maxEdgeNumber && graph.findEdge(nodes.get(i), nodes.get(j)) == null) {
 						Clusterable<V, E> c = new Clusterable<>();
-						c.addEdge(graph, nodes.get(i), nodes.get(j), signTransformer);
+						c.addLink(graph, nodes.get(i), nodes.get(j), signTransformer);
 					}
 				}
 			}

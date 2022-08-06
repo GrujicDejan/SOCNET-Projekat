@@ -45,12 +45,12 @@ public class Clusterable<V, E> {
 	}
 
 	@SuppressWarnings("unchecked")
-	public void addEdge(UndirectedSparseGraph<V, E> graph, V src, V dst, Transformer<E, Sign> signTransformer) {
+	public void addLink(UndirectedSparseGraph<V, E> graph, V src, V dst, Transformer<E, Sign> signTransformer) {
 
 		Random rnd = new Random();
 		
 		if (graph.getNeighborCount(src) == 0) {
-			graph.addEdge(rnd.nextDouble() < 0.8 ? (E) generator.getPositiveLink() : (E) generator.getNegativeLink(), src, dst);
+			graph.addEdge(rnd.nextDouble() < 0.85 ? (E) generator.getPositiveLink() : (E) generator.getNegativeLink(), src, dst);
 		} else {
 			
 			Set<V> visitedSrc = visited(graph, src, dst, signTransformer);
