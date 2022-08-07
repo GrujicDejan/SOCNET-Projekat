@@ -37,7 +37,7 @@ public class ErdosRenyiModel<V, E> {
 			graph.addVertex((V) generator.getNode());
 		}
 		
-		double maxEdgeNumber = this.n * (this.n - 1) / 2.0;
+		double maxLinksNumber = this.n * (this.n - 1) / 2.0;
 		Random rnd = new Random();
 		
 		List<V> nodes = new ArrayList<>(graph.getVertices());
@@ -45,9 +45,11 @@ public class ErdosRenyiModel<V, E> {
 		while (graph.getEdgeCount() < this.e) {
 			for (int i = 0; i < this.n - 1; i++) {
 				for (int j = i + 1; j < this.n; j++) {
-					if (rnd.nextDouble() < 1.0/maxEdgeNumber && graph.findEdge(nodes.get(i), nodes.get(j)) == null) {
+					double p = 1.0 / maxLinksNumber;
+					if (rnd.nextDouble() < p && graph.findEdge(nodes.get(i), nodes.get(j)) == null) {
 						Clusterable<V, E> c = new Clusterable<>();
 						c.addLink(graph, nodes.get(i), nodes.get(j), signTransformer);
+						maxLinksNumber--;
 					}
 				}
 			}

@@ -1,11 +1,25 @@
+package tests;
+
 import java.util.List;
+
+import org.apache.commons.collections15.Transformer;
 
 import clusterability.ComponentClustererBFS;
 import edu.uci.ics.jung.graph.UndirectedSparseGraph;
 import edu.uci.ics.jung.io.GraphIOException;
 import model.link.LinkInfo;
+import model.link.Sign;
+import model.link.SignedLink;
 
 public class Menu<V, E> {
+	
+	private Transformer<SignedLink, Sign> signTransformer;
+	private String name;
+	
+	public Menu(Transformer<SignedLink, Sign> signTransformer, String graphName) {
+		this.signTransformer = signTransformer;
+		this.name = graphName;
+	}
 	
 	public void printMenu() {
 		System.out.println("1  -> Prikaz osnovnih informacija o mrezi"); // br cvorova i grana
@@ -19,6 +33,7 @@ public class Menu<V, E> {
 		System.out.println("9  -> Analiza gigantskoj komponenti?");
 		System.out.println("10 -> Export giganteske komponente u graphml fajl?");
 		System.out.println("11 -> Export mreze u graphml fajl?");
+		System.out.println("0  -> KRAJ");
 	}
 	
 	public void get(ComponentClustererBFS<V, E> ccbfs, int choice) {
@@ -52,7 +67,7 @@ public class Menu<V, E> {
 					System.out.println(l);
 				}
 			} catch (GraphIOException e) {
-				e.printStackTrace();
+				System.out.println("Nije potrebno ukloniti linkove, mreza je klasterabilna");
 			}
 			break;
 		}
@@ -61,15 +76,21 @@ public class Menu<V, E> {
 			break;
 		}
 		case 7: {
-			System.out.println("Graf ima " + ccbfs.getPositiveLinks().size() + " pozitivnih linkova");
+			long n = ccbfs.getGraph()
+					.getEdges()
+					.stream()
+					.filter(l -> signTransformer.transform((SignedLink) l) == Sign.POSITIVE)
+					.count();
+			System.out.println("Graf ima " + n + " pozitivnih linkova");
 			break;
 		}
 		case 8: {
-			try {
-				System.out.println("Graf ima " + ccbfs.getNegativeLinks().size() + " negativnih linkova");
-			} catch (GraphIOException e) {
-				e.printStackTrace();
-			}
+			long n = ccbfs.getGraph()
+					.getEdges()
+					.stream()
+					.filter(l -> signTransformer.transform((SignedLink) l) == Sign.NEGATIVE)
+					.count();
+			System.out.println("Graf ima " + n + " negativnih linkova");
 			break;
 		}
 		case 9: {
@@ -79,11 +100,11 @@ public class Menu<V, E> {
 			break;
 		}
 		case 10: {
-			ccbfs.exportGigantComponentToGraphML("gigantComponent");
+			ccbfs.exportGigantComponentToGraphML(name + "_gigantComponent");
 			break;
 		}
 		case 11: {
-			ccbfs.exportNetworkToGraphML("network");
+			ccbfs.exportNetworkToGraphML("name");
 			break;
 		}
 		default:

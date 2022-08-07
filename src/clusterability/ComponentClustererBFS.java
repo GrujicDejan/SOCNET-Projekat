@@ -26,7 +26,7 @@ public class ComponentClustererBFS<V, E> implements ComponentClustererU<V, E> {
 	private List<UndirectedSparseGraph<V, E>> components;
 	private List<UndirectedSparseGraph<V, E>> clustersWithNegativeLink = new ArrayList<>();
 	private List<UndirectedSparseGraph<V, E>> clustersWithoutNegativeLink = new ArrayList<>();
-	List<LinkInfo<V, E>> negativeEdges = new ArrayList<>();
+	List<LinkInfo<V, E>> negativeLinks = new ArrayList<>();
 	
 	private Transformer<E, Sign> signTransformer;
 
@@ -116,7 +116,7 @@ public class ComponentClustererBFS<V, E> implements ComponentClustererU<V, E> {
 							clustersWithNegativeLink.add(component);
 						}
 						
-						this.negativeEdges.add(new LinkInfo<V, E>(sign, n1, n2, link));
+						this.negativeLinks.add(new LinkInfo<V, E>(sign, n1, n2, link));
 						negativeLink = true;
 					}
 				}
@@ -181,11 +181,7 @@ public class ComponentClustererBFS<V, E> implements ComponentClustererU<V, E> {
 		if (this.isClusterable()) 
 			throw new GraphIOException("The graph is clustered.");
 		
-		return this.negativeEdges;
-	}
-	
-	public List<LinkInfo<V, E>> getPositiveLinks() {
-		return this.getPositiveLinks();
+		return this.negativeLinks;
 	}
 	
 	public int getNumberOfNodes() {
@@ -194,6 +190,10 @@ public class ComponentClustererBFS<V, E> implements ComponentClustererU<V, E> {
 	
 	public int getNumberOfLinks() {
 		return graph.getEdgeCount();
+	}
+	
+	public UndirectedSparseGraph<V, E> getGraph() {
+		return this.graph;
 	}
 	
 	@SuppressWarnings("unchecked")
