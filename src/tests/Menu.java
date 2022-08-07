@@ -104,7 +104,7 @@ public class Menu<V, E> {
 			break;
 		}
 		case 11: {
-			ccbfs.exportNetworkToGraphML("name");
+			ccbfs.exportNetworkToGraphML(name);
 			break;
 		}
 		default:

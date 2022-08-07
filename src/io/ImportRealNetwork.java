@@ -70,15 +70,14 @@ public class ImportRealNetwork {
 		try (BufferedReader in = new BufferedReader(new FileReader(file))) {
 			UndirectedSparseGraph<Node, SignedLink> graph = new UndirectedSparseGraph<>();
 			String line;
-			for (int i = 0; i < lines && (line = in.readLine()) != null; i++) {
+			for (int i = 0; i < lines; i++) {
 				StringBuilder sb = new StringBuilder();
-				for (int n = 0; n < 7; n++) {
+				for (int n = 0; n < 7  && (line = in.readLine()) != null; n++) {
 					sb.append(line + " ");
 				}
 				
 				m = pattern.matcher(sb.toString());
 				if (m.find()) {
-					
 					Integer s = Integer.parseInt(m.group("sign"));
 					
 					if (s != 0) {
