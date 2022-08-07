@@ -25,7 +25,7 @@ public class LinkInfo<V, E> extends SignedLink {
 
 	@Override
 	public String toString() {
-		return "LinkInfo [source=" + source + ", target=" + target + ", link=" + link + "]";
+		return "[source=" + source + ", target=" + target + ", sign=" + getSign() + "]";
 	}
 	
 }
