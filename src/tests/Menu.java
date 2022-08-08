@@ -97,14 +97,18 @@ public class Menu<V, E> {
 			UndirectedSparseGraph<V, E> gc = ccbfs.getGiantComponent();
 			System.out.println("Gigantska komponenta ima " + gc.getVertexCount() + " cvorova");
 			System.out.println("Gigantska komponenta ima " + gc.getEdgeCount() + " linkova");
+			
+			System.out.println(ccbfs.getComponents().size());
 			break;
 		}
 		case 10: {
 			ccbfs.exportGigantComponentToGraphML(name + "_gigantComponent");
+			System.out.print(" Gigantska komponenta expotovana u graphml formatu");
 			break;
 		}
 		case 11: {
 			ccbfs.exportNetworkToGraphML(name);
+			System.out.print(" Mreza expotovana u graphml formatu");
 			break;
 		}
 		default:

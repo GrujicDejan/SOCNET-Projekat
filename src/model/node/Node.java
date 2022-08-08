@@ -18,4 +18,9 @@ public class Node {
 		return id;
 	}
 
+	@Override
+	public String toString() {
+		return "Node [label=" + label + ", id=" + id + "]";
+	}
+
 }
