@@ -10,6 +10,7 @@ import edu.uci.ics.jung.io.GraphIOException;
 import model.link.LinkInfo;
 import model.link.Sign;
 import model.link.SignedLink;
+import tests.metrics.NetworkMetrics;
 
 public class Menu<V, E> {
 	
@@ -39,7 +40,11 @@ public class Menu<V, E> {
 	public void get(ComponentClustererBFS<V, E> ccbfs, int choice) {
 		switch (choice) {
 		case 1: {
-			System.out.println("Broj cvorova -> " + ccbfs.getNumberOfNodes() + "\n" + "Broj linkova -> " + ccbfs.getNumberOfLinks());
+			System.out.println("\nBroj cvorova -> " + ccbfs.getNumberOfNodes() + "\n" + "Broj linkova -> " + ccbfs.getNumberOfLinks());
+			NetworkMetrics<V, E> m = new NetworkMetrics<V, E>(ccbfs.getGraph());
+			System.out.println("Small world koeficijent ->" + m.getSmallWorldCoeff());
+			System.out.println("Prosecan koeficijent klasterisanja ->" + m.averageClusteringCoeficient());
+			System.out.println("Cvor sa najvecim stepenom klasterisanja ->" + m.getNodeWithMaxClusteringCoefficient());
 			break;
 		}
 		case 2: {
@@ -97,8 +102,10 @@ public class Menu<V, E> {
 			UndirectedSparseGraph<V, E> gc = ccbfs.getGiantComponent();
 			System.out.println("Gigantska komponenta ima " + gc.getVertexCount() + " cvorova");
 			System.out.println("Gigantska komponenta ima " + gc.getEdgeCount() + " linkova");
-			
-			System.out.println(ccbfs.getComponents().size());
+			NetworkMetrics<V, E> m = new NetworkMetrics<V, E>(gc);
+			System.out.println("Small world koeficijent klastera ->" + m.getSmallWorldCoeff());
+			System.out.println("Prosecan koeficijent klasterisanja klastera ->" + m.averageClusteringCoeficient());
+			System.out.println("Cvor klastera sa najvecim stepenom klasterisanja ->" + m.getNodeWithMaxClusteringCoefficient());
 			break;
 		}
 		case 10: {
