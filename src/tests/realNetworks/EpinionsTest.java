@@ -18,7 +18,7 @@ public class EpinionsTest {
 	
 	public static String FILE = "res/soc-sign-epinions.txt";
 	
-	private static int MAX_LINES = 20000;
+	private static int MAX_LINES = 5000;
 	
 	private static Transformer<SignedLink, Sign> signTransformer = new Transformer<SignedLink, Sign>() {
 		public Sign transform(SignedLink ml) {
@@ -39,7 +39,7 @@ public class EpinionsTest {
 			int in = sc.nextInt();
 			while (in != 0) {
 				menu.get((ComponentClustererBFS<V, E>) ccbfs, in);
-				menu.printMenu();
+				//menu.printMenu();
 				System.out.println("\n-------------------------------\nVas izbor: ");
 				in = sc.nextInt();
 			}

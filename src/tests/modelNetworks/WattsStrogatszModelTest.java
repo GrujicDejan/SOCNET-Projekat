@@ -46,7 +46,7 @@ public class WattsStrogatszModelTest {
 			int in = sc.nextInt();
 			while (in != 0) {
 				menu.get((ComponentClustererBFS<V, E>) ccbfs, in);
-				menu.printMenu();
+				//menu.printMenu();
 				System.out.println("\n-------------------------------\nVas izbor: ");
 				in = sc.nextInt();
 			}

@@ -51,17 +51,17 @@ public class SmallNetworksTest {
 			System.out.println("\n-------------------------------\nVas izbor: ");
 			int in = sc.nextInt();
 			while (in != 0) {
-				System.out.print("Mreza 1 ---> ");
+				System.out.print("Mreza 1 (klasterabilna) ---> ");
 				menu1.get((ComponentClustererBFS<V, E>) ccbfs1, in);
-				System.out.print("\nMreza 2 ---> ");
+				System.out.print("\nMreza 2 (klasterabilna) ---> ");
 				menu2.get((ComponentClustererBFS<V, E>) ccbfs2, in);
-				System.out.print("\nMreza 3 ---> ");
+				System.out.print("\nMreza 3 (nije klasterabilna) ---> ");
 				menu3.get((ComponentClustererBFS<V, E>) ccbfs3, in);
-				System.out.print("\nMreza 4 ---> ");
+				System.out.print("\nMreza 4 (nije klasterabilna) ---> ");
 				menu4.get((ComponentClustererBFS<V, E>) ccbfs4, in);
 				System.out.println("\n-------------------------------\n");
 				
-				menu1.printMenu();
+				//menu1.printMenu();
 				System.out.println("\n-------------------------------\nVas izbor: ");
 				in = sc.nextInt();
 			}

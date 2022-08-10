@@ -8,6 +8,7 @@ import java.util.Map;
 import edu.uci.ics.jung.algorithms.metrics.Metrics;
 import edu.uci.ics.jung.algorithms.shortestpath.UnweightedShortestPath;
 import edu.uci.ics.jung.graph.Graph;
+import model.node.Node;
 
 public class NetworkMetrics<V, E> {
 
@@ -19,19 +20,21 @@ public class NetworkMetrics<V, E> {
 		clusteringCoeficientMap = Metrics.clusteringCoefficients(this.graph);
 	}
 
+	@SuppressWarnings("unchecked")
 	public double averageClusteringCoeficient() {		
 		double sum = 0.0;
-		
-		@SuppressWarnings("unchecked")
-		Iterator<V> it = (Iterator<V>) this.clusteringCoeficientMap.values().iterator();
+
+		Iterator<Node> it = (Iterator<Node>) graph.getVertices().iterator();
 		while (it.hasNext()) {
-			sum += (Double) it.next();
+			Node n = it.next();
+			double ccForN = clusteringCoeficientMap.get(n);
+			sum += ccForN;
 		}
-		
-		return sum / this.clusteringCoeficientMap.size();
+		return sum / graph.getVertexCount();
 	}
 	
-	public V getNodeWithMaxClusteringCoefficient() {
+	public List<V> getNodesWithMaxClusteringCoefficient() {
+		List<V> nodes = new ArrayList<>();
 		V node = null;
 		
 		for (Map.Entry<V, Double> entry : this.clusteringCoeficientMap.entrySet()) {
@@ -39,10 +42,15 @@ public class NetworkMetrics<V, E> {
 				node = entry.getKey();
 			} else if (entry.getValue() > this.clusteringCoeficientMap.get(node)) {
 				node = entry.getKey();
-			}
+			} 
 		}
 		
-		return node;
+		double d = this.clusteringCoeficientMap.get(node);
+		nodes = (List<V>) this.graph.getVertices().stream()
+					.filter(v -> this.clusteringCoeficientMap.get(v) == d)
+					.toList();
+		
+		return nodes;
 	}
 	
 	public double getSmallWorldCoeff() {

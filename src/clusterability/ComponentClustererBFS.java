@@ -12,12 +12,10 @@ import org.apache.commons.collections15.Transformer;
 import edu.uci.ics.jung.graph.UndirectedSparseGraph;
 import edu.uci.ics.jung.io.GraphIOException;
 import interfaces.ComponentClustererU;
-import io.Export;
+import io.Export2;
 import model.link.LinkInfo;
 import model.link.Sign;
-import model.link.SignedLink;
 import model.node.ClusterNode;
-import model.node.Node;
 
 public class ComponentClustererBFS<V, E> implements ComponentClustererU<V, E> {
 
@@ -196,16 +194,23 @@ public class ComponentClustererBFS<V, E> implements ComponentClustererU<V, E> {
 		return this.graph;
 	}
 	
-	@SuppressWarnings("unchecked")
+//	@SuppressWarnings("unchecked")
 	public void exportNetworkToGraphML(String fileName) {
-		Export export = new Export();
-		export.exportToGraphML(fileName, (UndirectedSparseGraph<Node, SignedLink>) graph);
+//		Export export = new Export();
+//		export.exportToGraphML(fileName, (UndirectedSparseGraph<Node, SignedLink>) graph);
+		
+		Export2<V, E> export = new Export2<V, E>(signTransformer);
+		export.exportGML((UndirectedSparseGraph<V, E>) graph, fileName);
 	}
 	
-	@SuppressWarnings("unchecked")
+//	@SuppressWarnings("unchecked")
 	public void exportGigantComponentToGraphML(String fileName) {
-		Export export = new Export();
-		export.exportToGraphML(fileName, (UndirectedSparseGraph<Node, SignedLink>) components.get(0));
+//		Export export = new Export();
+//		export.exportToGraphML(fileName, (UndirectedSparseGraph<Node, SignedLink>) getGiantComponent());
+
+		Export2<V, E> export = new Export2<V, E>(signTransformer);
+		export.exportGML((UndirectedSparseGraph<V, E>) components.get(0), fileName);
+		
 	}
 
 	// metode propisane interfejsom ComponentClustererU<V, E>

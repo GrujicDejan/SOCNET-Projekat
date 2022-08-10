@@ -35,7 +35,7 @@ public class ErdosRenyiModelTest {
 	@SuppressWarnings("unchecked")
 	public static <V, E> void main(String[] args) {
 		@SuppressWarnings("unused")
-		ErdosRenyiModelTest er = new ErdosRenyiModelTest(150, 300);
+		ErdosRenyiModelTest er = new ErdosRenyiModelTest(350, 700);
 		
 		UndirectedSparseGraph<Node, SignedLink> erGraph = graph;
 		ComponentClustererBFS<Node, SignedLink> ccbfs = new ComponentClustererBFS<Node, SignedLink>(erGraph, signTransformer);
@@ -47,13 +47,13 @@ public class ErdosRenyiModelTest {
 			int in = sc.nextInt();
 			while (in != 0) {
 				menu.get((ComponentClustererBFS<V, E>) ccbfs, in);
-				menu.printMenu();
+				//menu.printMenu();
 				System.out.println("\n-------------------------------\nVas izbor: ");
 				in = sc.nextInt();
 			}
 		} catch (Exception e) {
 			// TODO: handle exception
-		}
+			e.printStackTrace();		}
 	}
 	
 	

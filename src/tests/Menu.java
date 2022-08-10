@@ -41,10 +41,23 @@ public class Menu<V, E> {
 		switch (choice) {
 		case 1: {
 			System.out.println("\nBroj cvorova -> " + ccbfs.getNumberOfNodes() + "\n" + "Broj linkova -> " + ccbfs.getNumberOfLinks());
-			NetworkMetrics<V, E> m = new NetworkMetrics<V, E>(ccbfs.getGraph());
-			System.out.println("Small world koeficijent ->" + m.getSmallWorldCoeff());
-			System.out.println("Prosecan koeficijent klasterisanja ->" + m.averageClusteringCoeficient());
-			System.out.println("Cvor sa najvecim stepenom klasterisanja ->" + m.getNodeWithMaxClusteringCoefficient());
+			try {
+				NetworkMetrics<V, E> m = new NetworkMetrics<V, E>(ccbfs.getGraph());
+				System.out.println("Small world koeficijent ->" + m.getSmallWorldCoeff());
+				System.out.println("Prosecan koeficijent klasterisanja ->" + m.averageClusteringCoeficient());
+				List<V> nodes = m.getNodesWithMaxClusteringCoefficient();
+				if (nodes.size() == 1) {
+					System.out.println("Cvor sa najvecim stepenom klasterisanja ->" + m.getNodesWithMaxClusteringCoefficient());
+				} else {
+					System.out.println("Cvorovi sa najvecim stepenom klasterisanja:");
+					for (V v : nodes) {
+						System.out.println(v);
+					}
+				}
+				
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+			}
 			break;
 		}
 		case 2: {
@@ -66,7 +79,7 @@ public class Menu<V, E> {
 		case 5: {
 			try {
 				List<LinkInfo<V, E>> links = ccbfs.getNegativeLinks();
-				
+				System.out.println("Broj linkova koje treba izbrisati: " + links.size());
 				System.out.println("Linkovi koje treba izbrisati da bi mreza bila klasterabilna:");
 				for (LinkInfo<V, E> l : links) {
 					System.out.println(l);
@@ -104,22 +117,30 @@ public class Menu<V, E> {
 			System.out.println("Gigantska komponenta ima " + gc.getEdgeCount() + " linkova");
 			NetworkMetrics<V, E> m = new NetworkMetrics<V, E>(gc);
 			System.out.println("Small world koeficijent klastera ->" + m.getSmallWorldCoeff());
-			System.out.println("Prosecan koeficijent klasterisanja klastera ->" + m.averageClusteringCoeficient());
-			System.out.println("Cvor klastera sa najvecim stepenom klasterisanja ->" + m.getNodeWithMaxClusteringCoefficient());
+			System.out.println("Prosecan koeficijent klasterisanja ->" + m.averageClusteringCoeficient());
+			List<V> nodes = m.getNodesWithMaxClusteringCoefficient();
+			if (nodes.size() < 2) {
+				System.out.println("Cvor sa najvecim stepenom klasterisanja ->" + m.getNodesWithMaxClusteringCoefficient());
+			} else {
+				System.out.println("Cvorovi sa najvecim stepenom klasterisanja:");
+				for (int i = 0; i < nodes.size(); i++) {
+					System.out.println(nodes.get(i));
+				}
+			}
 			break;
 		}
 		case 10: {
 			ccbfs.exportGigantComponentToGraphML(name + "_gigantComponent");
-			System.out.print(" Gigantska komponenta expotovana u graphml formatu");
+			System.out.print("Gigantska komponenta expotovana u gml formatu");
 			break;
 		}
 		case 11: {
 			ccbfs.exportNetworkToGraphML(name);
-			System.out.print(" Mreza expotovana u graphml formatu");
+			System.out.print("Mreza expotovana u gml formatu");
 			break;
 		}
 		default:
-			throw new IllegalArgumentException("Unexpected value: " + choice);
+			System.out.println("Pogresan unos!");
 		}
 	}
 

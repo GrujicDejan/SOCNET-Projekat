@@ -1,0 +1,8567 @@
+graph [
+	multigraph 1
+    node [
+    id Kurtis
+    label " n_Kurtis"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Lankiveil
+    label " n_Lankiveil"
+  ]
+    node [
+    id Mediran
+    label " n_Mediran"
+  ]
+    node [
+    id Garamond Lethe
+    label " n_Garamond Lethe"
+  ]
+    node [
+    id Jebus989
+    label " n_Jebus989"
+  ]
+    node [
+    id MONGO
+    label " n_MONGO"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Wizardman
+    label " n_Wizardman"
+  ]
+    node [
+    id C678
+    label " n_C678"
+  ]
+    node [
+    id Jason Quinn
+    label " n_Jason Quinn"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id The ed17
+    label " n_The ed17"
+  ]
+    node [
+    id Jason Quinn
+    label " n_Jason Quinn"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Soap
+    label " n_Soap"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Kumioko
+    label " n_Kumioko"
+  ]
+    node [
+    id Tom Morris
+    label " n_Tom Morris"
+  ]
+    node [
+    id Rcsprinter123
+    label " n_Rcsprinter123"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Useight's Public Sock
+    label " n_Useight's Public Sock"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id KTC
+    label " n_KTC"
+  ]
+    node [
+    id Inka 888
+    label " n_Inka 888"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id KumiokoCleanStart
+    label " n_KumiokoCleanStart"
+  ]
+    node [
+    id Jan eissfeldt
+    label " n_Jan eissfeldt"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Sphilbrick
+    label " n_Sphilbrick"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Salvio giuliano
+    label " n_Salvio giuliano"
+  ]
+    node [
+    id I am One of Many
+    label " n_I am One of Many"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Pharaoh of the Wizards
+    label " n_Pharaoh of the Wizards"
+  ]
+    node [
+    id Kudpung
+    label " n_Kudpung"
+  ]
+    node [
+    id Rzuwig
+    label " n_Rzuwig"
+  ]
+    node [
+    id Alanscottwalker
+    label " n_Alanscottwalker"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Kaldari
+    label " n_Kaldari"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id Wikiwind
+    label " n_Wikiwind"
+  ]
+    node [
+    id Pol430
+    label " n_Pol430"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Cmach7
+    label " n_Cmach7"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Jason Quinn
+    label " n_Jason Quinn"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id 069952497a
+    label " n_069952497a"
+  ]
+    node [
+    id Danger
+    label " n_Danger"
+  ]
+    node [
+    id Espresso Addict
+    label " n_Espresso Addict"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id MJ94
+    label " n_MJ94"
+  ]
+    node [
+    id Bishonen
+    label " n_Bishonen"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Ret.Prof
+    label " n_Ret.Prof"
+  ]
+    node [
+    id Themfromspace
+    label " n_Themfromspace"
+  ]
+    node [
+    id Widr
+    label " n_Widr"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id LemonTwinkle
+    label " n_LemonTwinkle"
+  ]
+    node [
+    id Sven Manguard
+    label " n_Sven Manguard"
+  ]
+    node [
+    id Northamerica1000
+    label " n_Northamerica1000"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id TCN7JM
+    label " n_TCN7JM"
+  ]
+    node [
+    id Gobonobo
+    label " n_Gobonobo"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Torreslfchero
+    label " n_Torreslfchero"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Miniapolis
+    label " n_Miniapolis"
+  ]
+    node [
+    id Jason Quinn
+    label " n_Jason Quinn"
+  ]
+    node [
+    id Jason Quinn
+    label " n_Jason Quinn"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id INeverCry
+    label " n_INeverCry"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id WereSpielChequers
+    label " n_WereSpielChequers"
+  ]
+    node [
+    id Nick-D
+    label " n_Nick-D"
+  ]
+    node [
+    id Ceranthor
+    label " n_Ceranthor"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Jason Quinn
+    label " n_Jason Quinn"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Cullen328
+    label " n_Cullen328"
+  ]
+    node [
+    id Trevj
+    label " n_Trevj"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id INeverCry
+    label " n_INeverCry"
+  ]
+    node [
+    id Sue Rangell
+    label " n_Sue Rangell"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id James086
+    label " n_James086"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Salvidrim
+    label " n_Salvidrim"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Legoktm
+    label " n_Legoktm"
+  ]
+    node [
+    id Mabdul
+    label " n_Mabdul"
+  ]
+    node [
+    id Joe Decker
+    label " n_Joe Decker"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id Steven Zhang
+    label " n_Steven Zhang"
+  ]
+    node [
+    id Hobit
+    label " n_Hobit"
+  ]
+    node [
+    id Newyorkbrad
+    label " n_Newyorkbrad"
+  ]
+    node [
+    id RockMagnetist
+    label " n_RockMagnetist"
+  ]
+    node [
+    id GregJackP
+    label " n_GregJackP"
+  ]
+    node [
+    id Garion96
+    label " n_Garion96"
+  ]
+    node [
+    id Guettarda
+    label " n_Guettarda"
+  ]
+    node [
+    id NintendoFan
+    label " n_NintendoFan"
+  ]
+    node [
+    id Rschen7754
+    label " n_Rschen7754"
+  ]
+    node [
+    id Nouniquenames
+    label " n_Nouniquenames"
+  ]
+    node [
+    id Stephen
+    label " n_Stephen"
+  ]
+    node [
+    id Ultraexactzz
+    label " n_Ultraexactzz"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Lectonar
+    label " n_Lectonar"
+  ]
+    node [
+    id Ymblanter
+    label " n_Ymblanter"
+  ]
+    node [
+    id Pichpich
+    label " n_Pichpich"
+  ]
+    node [
+    id Aircorn
+    label " n_Aircorn"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Timotheus Canens
+    label " n_Timotheus Canens"
+  ]
+    node [
+    id Shawn in Montreal
+    label " n_Shawn in Montreal"
+  ]
+    node [
+    id Sparklism
+    label " n_Sparklism"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id Legoktm
+    label " n_Legoktm"
+  ]
+    node [
+    id Spencer
+    label " n_Spencer"
+  ]
+    node [
+    id RP459
+    label " n_RP459"
+  ]
+    node [
+    id INeverCry
+    label " n_INeverCry"
+  ]
+    node [
+    id Pratyya Ghosh
+    label " n_Pratyya Ghosh"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Jusdafax
+    label " n_Jusdafax"
+  ]
+    node [
+    id Camyoung54
+    label " n_Camyoung54"
+  ]
+    node [
+    id INeverCry
+    label " n_INeverCry"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Shadowjams
+    label " n_Shadowjams"
+  ]
+    node [
+    id Nathan Johnson
+    label " n_Nathan Johnson"
+  ]
+    node [
+    id Malcolmxl5
+    label " n_Malcolmxl5"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Richwales
+    label " n_Richwales"
+  ]
+    node [
+    id Tazerdadog
+    label " n_Tazerdadog"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Secret
+    label " n_Secret"
+  ]
+    node [
+    id Callanecc
+    label " n_Callanecc"
+  ]
+    node [
+    id INeverCry
+    label " n_INeverCry"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Dainomite
+    label " n_Dainomite"
+  ]
+    node [
+    id Cncmaster
+    label " n_Cncmaster"
+  ]
+    node [
+    id Ajraddatz
+    label " n_Ajraddatz"
+  ]
+    node [
+    id Stalwart111
+    label " n_Stalwart111"
+  ]
+    node [
+    id Piotrus
+    label " n_Piotrus"
+  ]
+    node [
+    id Trusilver
+    label " n_Trusilver"
+  ]
+    node [
+    id Hawkeye7
+    label " n_Hawkeye7"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Jason Quinn
+    label " n_Jason Quinn"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id TBrandley
+    label " n_TBrandley"
+  ]
+    node [
+    id The Anonymouse
+    label " n_The Anonymouse"
+  ]
+    node [
+    id AGK
+    label " n_AGK"
+  ]
+    node [
+    id MrX
+    label " n_MrX"
+  ]
+    node [
+    id Go Phightins!
+    label " n_Go Phightins!"
+  ]
+    node [
+    id Yunshui
+    label " n_Yunshui"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Kierzek
+    label " n_Kierzek"
+  ]
+    node [
+    id Kraxler
+    label " n_Kraxler"
+  ]
+    node [
+    id Doctree
+    label " n_Doctree"
+  ]
+    node [
+    id INeverCry
+    label " n_INeverCry"
+  ]
+    node [
+    id Anthony Bradbury
+    label " n_Anthony Bradbury"
+  ]
+    node [
+    id My76Strat
+    label " n_My76Strat"
+  ]
+    node [
+    id Airplaneman
+    label " n_Airplaneman"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id SlimVirgin
+    label " n_SlimVirgin"
+  ]
+    node [
+    id Rogerd
+    label " n_Rogerd"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Huon
+    label " n_Huon"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Andrew Gray
+    label " n_Andrew Gray"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id QuiteUnusual
+    label " n_QuiteUnusual"
+  ]
+    node [
+    id Paul Erik
+    label " n_Paul Erik"
+  ]
+    node [
+    id Wehwalt
+    label " n_Wehwalt"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Ignatzmice
+    label " n_Ignatzmice"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id Amorymeltzer
+    label " n_Amorymeltzer"
+  ]
+    node [
+    id Mohamed CJ
+    label " n_Mohamed CJ"
+  ]
+    node [
+    id WorldTraveller101
+    label " n_WorldTraveller101"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id King of Hearts
+    label " n_King of Hearts"
+  ]
+    node [
+    id INeverCry
+    label " n_INeverCry"
+  ]
+    node [
+    id Theopolisme
+    label " n_Theopolisme"
+  ]
+    node [
+    id Legoktm
+    label " n_Legoktm"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id OlEnglish
+    label " n_OlEnglish"
+  ]
+    node [
+    id Kablammo
+    label " n_Kablammo"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Lord Roem
+    label " n_Lord Roem"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Hut 8.5
+    label " n_Hut 8.5"
+  ]
+    node [
+    id Scottywong
+    label " n_Scottywong"
+  ]
+    node [
+    id Jason Quinn
+    label " n_Jason Quinn"
+  ]
+    node [
+    id Erik
+    label " n_Erik"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id Graham87
+    label " n_Graham87"
+  ]
+    node [
+    id Vacation9
+    label " n_Vacation9"
+  ]
+    node [
+    id Hahc21
+    label " n_Hahc21"
+  ]
+    node [
+    id Mr. Stradivarius
+    label " n_Mr. Stradivarius"
+  ]
+    node [
+    id Gilderien
+    label " n_Gilderien"
+  ]
+    node [
+    id Brookie
+    label " n_Brookie"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Jafeluv
+    label " n_Jafeluv"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id LlamaAl
+    label " n_LlamaAl"
+  ]
+    node [
+    id Technical 13
+    label " n_Technical 13"
+  ]
+    node [
+    id TParis
+    label " n_TParis"
+  ]
+    node [
+    id Jason Quinn
+    label " n_Jason Quinn"
+  ]
+    node [
+    id Legoktm
+    label " n_Legoktm"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Legoktm
+    label " n_Legoktm"
+  ]
+    node [
+    id Jason Quinn
+    label " n_Jason Quinn"
+  ]
+    node [
+    id Deb
+    label " n_Deb"
+  ]
+    node [
+    id Diannaa
+    label " n_Diannaa"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id DanielTom
+    label " n_DanielTom"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id SmokeyJoe
+    label " n_SmokeyJoe"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Jason Quinn
+    label " n_Jason Quinn"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Mazca
+    label " n_Mazca"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Dank
+    label " n_Dank"
+  ]
+    node [
+    id Jschnur
+    label " n_Jschnur"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Legoktm
+    label " n_Legoktm"
+  ]
+    node [
+    id Titodutta
+    label " n_Titodutta"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id Thumperward
+    label " n_Thumperward"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id CaSJer
+    label " n_CaSJer"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id RightCowLeftCoast
+    label " n_RightCowLeftCoast"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id MelanieN
+    label " n_MelanieN"
+  ]
+    node [
+    id 99of9
+    label " n_99of9"
+  ]
+    node [
+    id RegentsPark
+    label " n_RegentsPark"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id Ktr101
+    label " n_Ktr101"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Peridon
+    label " n_Peridon"
+  ]
+    node [
+    id John F. Lewis
+    label " n_John F. Lewis"
+  ]
+    node [
+    id Razionale
+    label " n_Razionale"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id Boing! said Zebedee
+    label " n_Boing! said Zebedee"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id EdJohnston
+    label " n_EdJohnston"
+  ]
+    node [
+    id INeverCry
+    label " n_INeverCry"
+  ]
+    node [
+    id INeverCry
+    label " n_INeverCry"
+  ]
+    node [
+    id Monterey Bay
+    label " n_Monterey Bay"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Thine Antique Pen
+    label " n_Thine Antique Pen"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Carrite
+    label " n_Carrite"
+  ]
+    node [
+    id JayJay
+    label " n_JayJay"
+  ]
+    node [
+    id X!
+    label " n_X!"
+  ]
+    node [
+    id Kiefer.Wolfowitz
+    label " n_Kiefer.Wolfowitz"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id OrenBochman
+    label " n_OrenBochman"
+  ]
+    node [
+    id Jasper Deng
+    label " n_Jasper Deng"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id SilkTork
+    label " n_SilkTork"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id DaGizza
+    label " n_DaGizza"
+  ]
+    node [
+    id Tryptofish
+    label " n_Tryptofish"
+  ]
+    node [
+    id Ankit Maity
+    label " n_Ankit Maity"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Chick Bowen
+    label " n_Chick Bowen"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id INeverCry
+    label " n_INeverCry"
+  ]
+    node [
+    id Orlady
+    label " n_Orlady"
+  ]
+    node [
+    id Jason Quinn
+    label " n_Jason Quinn"
+  ]
+    node [
+    id Mark Arsten
+    label " n_Mark Arsten"
+  ]
+    node [
+    id Daniel
+    label " n_Daniel"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Jason Quinn
+    label " n_Jason Quinn"
+  ]
+    node [
+    id NuclearWarfare
+    label " n_NuclearWarfare"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Snow Blizzard
+    label " n_Snow Blizzard"
+  ]
+    node [
+    id INeverCry
+    label " n_INeverCry"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Tucoxn
+    label " n_Tucoxn"
+  ]
+    node [
+    id Axl
+    label " n_Axl"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id DGG
+    label " n_DGG"
+  ]
+    node [
+    id Addshore
+    label " n_Addshore"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Stfg
+    label " n_Stfg"
+  ]
+    node [
+    id Philosopher
+    label " n_Philosopher"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Ronhjones
+    label " n_Ronhjones"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Marcus Qwertyus
+    label " n_Marcus Qwertyus"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Mlpearc
+    label " n_Mlpearc"
+  ]
+    node [
+    id GiantSnowman
+    label " n_GiantSnowman"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id PumpkinSky
+    label " n_PumpkinSky"
+  ]
+    node [
+    id Filelakeshoe
+    label " n_Filelakeshoe"
+  ]
+    node [
+    id Inks.LWC
+    label " n_Inks.LWC"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Webclient101
+    label " n_Webclient101"
+  ]
+    node [
+    id Intothatdarkness
+    label " n_Intothatdarkness"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Status
+    label " n_Status"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id Ched
+    label " n_Ched"
+  ]
+    node [
+    id Dwaipayanc
+    label " n_Dwaipayanc"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Bluerasberry
+    label " n_Bluerasberry"
+  ]
+    node [
+    id Legoktm
+    label " n_Legoktm"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id Érico Júnior Wouters
+    label " n_Érico Júnior Wouters"
+  ]
+    node [
+    id Nyttend
+    label " n_Nyttend"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id BuickCenturyDriver
+    label " n_BuickCenturyDriver"
+  ]
+    node [
+    id RayAYang
+    label " n_RayAYang"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id PhilKnight
+    label " n_PhilKnight"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+    node [
+    id Dennis Brown
+    label " n_Dennis Brown"
+  ]
+    node [
+    id HMSSolent
+    label " n_HMSSolent"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Someguy1221
+    label " n_Someguy1221"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Scray
+    label " n_Scray"
+  ]
+    node [
+    id Mkdw
+    label " n_Mkdw"
+  ]
+    node [
+    id AutomaticStrikeout
+    label " n_AutomaticStrikeout"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id IRWolfie-
+    label " n_IRWolfie-"
+  ]
+    node [
+    id Darkwind
+    label " n_Darkwind"
+  ]
+    node [
+    id Reaper Eternal
+    label " n_Reaper Eternal"
+  ]
+    node [
+    id Adjwilley
+    label " n_Adjwilley"
+  ]
+    node [
+    id Morning Sunshine
+    label " n_Morning Sunshine"
+  ]
+    node [
+    id Tolly4bolly
+    label " n_Tolly4bolly"
+  ]
+    node [
+    id Snowolf
+    label " n_Snowolf"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Armbrust
+    label " n_Armbrust"
+  ]
+    node [
+    id ZappaOMati
+    label " n_ZappaOMati"
+  ]
+    node [
+    id Ks0stm
+    label " n_Ks0stm"
+  ]
+    node [
+    id Pedro
+    label " n_Pedro"
+  ]
+    node [
+    id BDD
+    label " n_BDD"
+  ]
+    node [
+    id Bilby
+    label " n_Bilby"
+  ]
+  edge [
+    source Kurtis
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Kurtis
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Kurtis
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Kurtis
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Kurtis
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Kurtis
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Kurtis
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target MONGO
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Sparklism
+    sign POSITIVE
+  ]
+  edge [
+    source Lankiveil
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Lankiveil
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Mediran
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Mediran
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Mediran
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Mediran
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Mediran
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Garamond Lethe
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Garamond Lethe
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Garamond Lethe
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Jebus989
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Jebus989
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Jebus989
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Jebus989
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Jebus989
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source MONGO
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source MONGO
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source MONGO
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source MONGO
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source MONGO
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source MONGO
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source MONGO
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Tucoxn
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Diannaa
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Peridon
+    sign POSITIVE
+  ]
+  edge [
+    source Wizardman
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Wizardman
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Wizardman
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Wizardman
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Wizardman
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Wizardman
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Wizardman
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source C678
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source C678
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source C678
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source C678
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source C678
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Steven Zhang
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source The ed17
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source The ed17
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source The ed17
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source The ed17
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Mark Arsten
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Garion96
+    sign POSITIVE
+  ]
+  edge [
+    source Soap
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Soap
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Soap
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target RightCowLeftCoast
+    sign POSITIVE
+  ]
+  edge [
+    source Kumioko
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Kumioko
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Kumioko
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Tom Morris
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Tom Morris
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Tom Morris
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Rcsprinter123
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Rcsprinter123
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target OlEnglish
+    sign POSITIVE
+  ]
+  edge [
+    source Useight's Public Sock
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Useight's Public Sock
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Tom Morris
+    sign POSITIVE
+  ]
+  edge [
+    source KTC
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source KTC
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Inka 888
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target TCN7JM
+    sign POSITIVE
+  ]
+  edge [
+    source KumiokoCleanStart
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source KumiokoCleanStart
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source KumiokoCleanStart
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Jan eissfeldt
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Jan eissfeldt
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Reaper Eternal
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target GiantSnowman
+    sign POSITIVE
+  ]
+  edge [
+    source Sphilbrick
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Sphilbrick
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Rschen7754
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Sphilbrick
+    sign POSITIVE
+  ]
+  edge [
+    source Salvio giuliano
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Salvio giuliano
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source I am One of Many
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source I am One of Many
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Marcus Qwertyus
+    sign POSITIVE
+  ]
+  edge [
+    source Pharaoh of the Wizards
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Pharaoh of the Wizards
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Pharaoh of the Wizards
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Kudpung
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Kudpung
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Kudpung
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Kudpung
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Rzuwig
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Rzuwig
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Rzuwig
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Rzuwig
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Alanscottwalker
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Alanscottwalker
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Alanscottwalker
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Ret.Prof
+    sign POSITIVE
+  ]
+  edge [
+    source Kaldari
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Kaldari
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Nouniquenames
+    sign POSITIVE
+  ]
+  edge [
+    source Wikiwind
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Wikiwind
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Pol430
+    target Darkwind
+    sign NEGATIVE
+  ]
+  edge [
+    source Pol430
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Pol430
+    target Jason Quinn
+    sign NEGATIVE
+  ]
+  edge [
+    source Pol430
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Pol430
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Inks.LWC
+    sign POSITIVE
+  ]
+  edge [
+    source Cmach7
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Cmach7
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Useight's Public Sock
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Chick Bowen
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Kablammo
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Mazca
+    sign POSITIVE
+  ]
+  edge [
+    source 069952497a
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source 069952497a
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source 069952497a
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Danger
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Danger
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Espresso Addict
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Espresso Addict
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target 069952497a
+    sign POSITIVE
+  ]
+  edge [
+    source MJ94
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source MJ94
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source MJ94
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source MJ94
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Bishonen
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Gilderien
+    sign POSITIVE
+  ]
+  edge [
+    source Ret.Prof
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Ret.Prof
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Ret.Prof
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Ret.Prof
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Themfromspace
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Themfromspace
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Widr
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Widr
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Widr
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Widr
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Filelakeshoe
+    sign POSITIVE
+  ]
+  edge [
+    source LemonTwinkle
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Sven Manguard
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Sven Manguard
+    target INeverCry
+    sign NEGATIVE
+  ]
+  edge [
+    source Sven Manguard
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Sven Manguard
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Northamerica1000
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Northamerica1000
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Hahc21
+    sign POSITIVE
+  ]
+  edge [
+    source TCN7JM
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source TCN7JM
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Gobonobo
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Gobonobo
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Camyoung54
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Go Phightins!
+    sign POSITIVE
+  ]
+  edge [
+    source Torreslfchero
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Torreslfchero
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Torreslfchero
+    target Jason Quinn
+    sign NEGATIVE
+  ]
+  edge [
+    source Torreslfchero
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Sven Manguard
+    sign POSITIVE
+  ]
+  edge [
+    source Miniapolis
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Miniapolis
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Miniapolis
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Miniapolis
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Miniapolis
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Miniapolis
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Miniapolis
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Wehwalt
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target QuiteUnusual
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Mr. Stradivarius
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Andrew Gray
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Scray
+    sign POSITIVE
+  ]
+  edge [
+    source WereSpielChequers
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source WereSpielChequers
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source WereSpielChequers
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source WereSpielChequers
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source WereSpielChequers
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Nick-D
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Nick-D
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Nick-D
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Ceranthor
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Ceranthor
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Secret
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target My76Strat
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Ched
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Sue Rangell
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target SilkTork
+    sign POSITIVE
+  ]
+  edge [
+    source Cullen328
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Cullen328
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Trevj
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Trevj
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Trevj
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Kurtis
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target MONGO
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Wizardman
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Rzuwig
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Kaldari
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Pol430
+    sign NEGATIVE
+  ]
+  edge [
+    source Darkwind
+    target Danger
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Ret.Prof
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Themfromspace
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Gobonobo
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Miniapolis
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target WereSpielChequers
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Mabdul
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Joe Decker
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Newyorkbrad
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Garion96
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Spencer
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target RP459
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Jusdafax
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Shadowjams
+    sign NEGATIVE
+  ]
+  edge [
+    source Darkwind
+    target Secret
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Stalwart111
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target MrX
+    sign NEGATIVE
+  ]
+  edge [
+    source Darkwind
+    target Go Phightins!
+    sign NEGATIVE
+  ]
+  edge [
+    source Darkwind
+    target Kraxler
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Doctree
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target My76Strat
+    sign NEGATIVE
+  ]
+  edge [
+    source Darkwind
+    target Rogerd
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Hut 8.5
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Hahc21
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Mr. Stradivarius
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Gilderien
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Brookie
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target LlamaAl
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target SmokeyJoe
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target MelanieN
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Peridon
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target John F. Lewis
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Boing! said Zebedee
+    sign NEGATIVE
+  ]
+  edge [
+    source Darkwind
+    target Thine Antique Pen
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Carrite
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Kiefer.Wolfowitz
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Tryptofish
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target GiantSnowman
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Inks.LWC
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Webclient101
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Intothatdarkness
+    sign NEGATIVE
+  ]
+  edge [
+    source Darkwind
+    target Bluerasberry
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Nyttend
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Dennis Brown
+    sign NEGATIVE
+  ]
+  edge [
+    source Darkwind
+    target Scray
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target AutomaticStrikeout
+    sign NEGATIVE
+  ]
+  edge [
+    source Darkwind
+    target Reaper Eternal
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Doctree
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target I am One of Many
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Garamond Lethe
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target James086
+    sign POSITIVE
+  ]
+  edge [
+    source Sue Rangell
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Sue Rangell
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Trevj
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Ignatzmice
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Jafeluv
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Adjwilley
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target ZappaOMati
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Northamerica1000
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Newyorkbrad
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Pratyya Ghosh
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target JayJay
+    sign POSITIVE
+  ]
+  edge [
+    source James086
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source James086
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source James086
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target RP459
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Nyttend
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Graham87
+    sign POSITIVE
+  ]
+  edge [
+    source Salvidrim
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Salvidrim
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Stalwart111
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Callanecc
+    sign POSITIVE
+  ]
+  edge [
+    source Mabdul
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Mabdul
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Mabdul
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Joe Decker
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Joe Decker
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Joe Decker
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Joe Decker
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Joe Decker
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target KumiokoCleanStart
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Ajraddatz
+    sign POSITIVE
+  ]
+  edge [
+    source Steven Zhang
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Steven Zhang
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Steven Zhang
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Hobit
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Hobit
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Newyorkbrad
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Newyorkbrad
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Newyorkbrad
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Newyorkbrad
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Newyorkbrad
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Newyorkbrad
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source RockMagnetist
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source RockMagnetist
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source GregJackP
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Garion96
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Garion96
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Garion96
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Garion96
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Guettarda
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Guettarda
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source NintendoFan
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source NintendoFan
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Rschen7754
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Rschen7754
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Rschen7754
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Rschen7754
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Rschen7754
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Nouniquenames
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Nouniquenames
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Nouniquenames
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Stephen
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Stephen
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Stephen
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Stephen
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Stephen
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Ultraexactzz
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Ultraexactzz
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target TParis
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Monterey Bay
+    sign POSITIVE
+  ]
+  edge [
+    source Lectonar
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Lectonar
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Ymblanter
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Ymblanter
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Ymblanter
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Ymblanter
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Pichpich
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Pichpich
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Pichpich
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Aircorn
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Aircorn
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target EdJohnston
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Daniel
+    sign POSITIVE
+  ]
+  edge [
+    source Timotheus Canens
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Timotheus Canens
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Shawn in Montreal
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Shawn in Montreal
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Sparklism
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Sparklism
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Sparklism
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Sparklism
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target DanielTom
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Kumioko
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Rcsprinter123
+    sign POSITIVE
+  ]
+  edge [
+    source Spencer
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Spencer
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Spencer
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Spencer
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Spencer
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source RP459
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source RP459
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source RP459
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source RP459
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Titodutta
+    sign POSITIVE
+  ]
+  edge [
+    source Pratyya Ghosh
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Pratyya Ghosh
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Pratyya Ghosh
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Pratyya Ghosh
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Pratyya Ghosh
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Pratyya Ghosh
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Ankit Maity
+    sign POSITIVE
+  ]
+  edge [
+    source Jusdafax
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Jusdafax
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Jusdafax
+    target Jason Quinn
+    sign NEGATIVE
+  ]
+  edge [
+    source Jusdafax
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Camyoung54
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Camyoung54
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Mlpearc
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Pharaoh of the Wizards
+    sign POSITIVE
+  ]
+  edge [
+    source Shadowjams
+    target Darkwind
+    sign NEGATIVE
+  ]
+  edge [
+    source Shadowjams
+    target INeverCry
+    sign NEGATIVE
+  ]
+  edge [
+    source Shadowjams
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Shadowjams
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Nathan Johnson
+    target INeverCry
+    sign NEGATIVE
+  ]
+  edge [
+    source Nathan Johnson
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Nathan Johnson
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Nathan Johnson
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Malcolmxl5
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Malcolmxl5
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Malcolmxl5
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Malcolmxl5
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Hawkeye7
+    sign POSITIVE
+  ]
+  edge [
+    source Richwales
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Tazerdadog
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Tazerdadog
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Tazerdadog
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Tazerdadog
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Kierzek
+    sign POSITIVE
+  ]
+  edge [
+    source Secret
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Secret
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Secret
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Secret
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Secret
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Secret
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Callanecc
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Callanecc
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Érico Júnior Wouters
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target RegentsPark
+    sign POSITIVE
+  ]
+  edge [
+    source Dainomite
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Dainomite
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Dainomite
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Dainomite
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Dainomite
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Cncmaster
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Cncmaster
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Ajraddatz
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Ajraddatz
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Stalwart111
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Stalwart111
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Stalwart111
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Stalwart111
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Stalwart111
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Stalwart111
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Piotrus
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Piotrus
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Trusilver
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Trusilver
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Trusilver
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Trusilver
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Trusilver
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Hawkeye7
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Hawkeye7
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Hawkeye7
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Hawkeye7
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target NintendoFan
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Philosopher
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Dainomite
+    sign POSITIVE
+  ]
+  edge [
+    source TBrandley
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source TBrandley
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source TBrandley
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source TBrandley
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source The Anonymouse
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source The Anonymouse
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source The Anonymouse
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source AGK
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source AGK
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source MrX
+    target Darkwind
+    sign NEGATIVE
+  ]
+  edge [
+    source MrX
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source MrX
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source MrX
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source MrX
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Go Phightins!
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Go Phightins!
+    target Darkwind
+    sign NEGATIVE
+  ]
+  edge [
+    source Go Phightins!
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Go Phightins!
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Go Phightins!
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Go Phightins!
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Yunshui
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Malcolmxl5
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target MrX
+    sign POSITIVE
+  ]
+  edge [
+    source Kierzek
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Kierzek
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Kierzek
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Kraxler
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Kraxler
+    target Jason Quinn
+    sign NEGATIVE
+  ]
+  edge [
+    source Kraxler
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Doctree
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Doctree
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Doctree
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Doctree
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Doctree
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Doctree
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Kurtis
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Lankiveil
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Mediran
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Garamond Lethe
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Jebus989
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target MONGO
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Wizardman
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target C678
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target The ed17
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Tom Morris
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Sphilbrick
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Pharaoh of the Wizards
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Kudpung
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Espresso Addict
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Sven Manguard
+    sign NEGATIVE
+  ]
+  edge [
+    source INeverCry
+    target Torreslfchero
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Miniapolis
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target WereSpielChequers
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Cullen328
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Trevj
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Joe Decker
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Garion96
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Rschen7754
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Stephen
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Ymblanter
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Pichpich
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Sparklism
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Spencer
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target RP459
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Pratyya Ghosh
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Jusdafax
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Shadowjams
+    sign NEGATIVE
+  ]
+  edge [
+    source INeverCry
+    target Nathan Johnson
+    sign NEGATIVE
+  ]
+  edge [
+    source INeverCry
+    target Malcolmxl5
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Tazerdadog
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Secret
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Dainomite
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Stalwart111
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Trusilver
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Hawkeye7
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target TBrandley
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Go Phightins!
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Kierzek
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Doctree
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Rogerd
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Mohamed CJ
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target OlEnglish
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Hahc21
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Mr. Stradivarius
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Brookie
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target LlamaAl
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target TParis
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Jason Quinn
+    sign NEGATIVE
+  ]
+  edge [
+    source INeverCry
+    target Diannaa
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Dank
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Thumperward
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target MelanieN
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target 99of9
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target RegentsPark
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Ktr101
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Boing! said Zebedee
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Thine Antique Pen
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Kiefer.Wolfowitz
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target SilkTork
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Tryptofish
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Tucoxn
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Axl
+    sign NEGATIVE
+  ]
+  edge [
+    source INeverCry
+    target Ronhjones
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Marcus Qwertyus
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target GiantSnowman
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Filelakeshoe
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Inks.LWC
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Webclient101
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Status
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Nyttend
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target BuickCenturyDriver
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target PhilKnight
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Dennis Brown
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Someguy1221
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target AutomaticStrikeout
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Adjwilley
+    sign POSITIVE
+  ]
+  edge [
+    source Anthony Bradbury
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source My76Strat
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source My76Strat
+    target Darkwind
+    sign NEGATIVE
+  ]
+  edge [
+    source My76Strat
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source My76Strat
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Airplaneman
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Airplaneman
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Mkdw
+    sign POSITIVE
+  ]
+  edge [
+    source SlimVirgin
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source SlimVirgin
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source SlimVirgin
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Rogerd
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Rogerd
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Rogerd
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Rogerd
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Rogerd
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Rogerd
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Mabdul
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Salvidrim
+    sign POSITIVE
+  ]
+  edge [
+    source Huon
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Huon
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Cullen328
+    sign POSITIVE
+  ]
+  edge [
+    source Andrew Gray
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Andrew Gray
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target SlimVirgin
+    sign POSITIVE
+  ]
+  edge [
+    source QuiteUnusual
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source QuiteUnusual
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Paul Erik
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Paul Erik
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Wehwalt
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Wehwalt
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Dennis Brown
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target AutomaticStrikeout
+    sign POSITIVE
+  ]
+  edge [
+    source Ignatzmice
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Ignatzmice
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Dank
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target PumpkinSky
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target X!
+    sign POSITIVE
+  ]
+  edge [
+    source Amorymeltzer
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Amorymeltzer
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Mohamed CJ
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Mohamed CJ
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Mohamed CJ
+    target Jason Quinn
+    sign NEGATIVE
+  ]
+  edge [
+    source Mohamed CJ
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source WorldTraveller101
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source WorldTraveller101
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target CaSJer
+    sign POSITIVE
+  ]
+  edge [
+    source King of Hearts
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source King of Hearts
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source King of Hearts
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source King of Hearts
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Morning Sunshine
+    sign POSITIVE
+  ]
+  edge [
+    source Theopolisme
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Ceranthor
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Gobonobo
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Lankiveil
+    sign POSITIVE
+  ]
+  edge [
+    source OlEnglish
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source OlEnglish
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source OlEnglish
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source OlEnglish
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Kablammo
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Kablammo
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Amorymeltzer
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Kurtis
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Mediran
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Jebus989
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target MONGO
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Wizardman
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target C678
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target The ed17
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Kumioko
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Tom Morris
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Rcsprinter123
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Jan eissfeldt
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Rzuwig
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Alanscottwalker
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Wikiwind
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Pol430
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Cmach7
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Espresso Addict
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target MJ94
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Widr
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target LemonTwinkle
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Sven Manguard
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Torreslfchero
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Miniapolis
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target WereSpielChequers
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Nick-D
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Ceranthor
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Trevj
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Sue Rangell
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target James086
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Salvidrim
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Steven Zhang
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Hobit
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Newyorkbrad
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target GregJackP
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Guettarda
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Rschen7754
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Nouniquenames
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Stephen
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Ymblanter
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Timotheus Canens
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Sparklism
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Spencer
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target RP459
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Pratyya Ghosh
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Malcolmxl5
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Richwales
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Secret
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Callanecc
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Stalwart111
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Hawkeye7
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target TBrandley
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target The Anonymouse
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target AGK
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target MrX
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Go Phightins!
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Anthony Bradbury
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Rogerd
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Wehwalt
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Mohamed CJ
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target King of Hearts
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Scottywong
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Vacation9
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Hahc21
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Mr. Stradivarius
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Brookie
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target LlamaAl
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Dank
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Titodutta
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target CaSJer
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target RegentsPark
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Ktr101
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Peridon
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target John F. Lewis
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target EdJohnston
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Thine Antique Pen
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Carrite
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target JayJay
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target X!
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Kiefer.Wolfowitz
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Jasper Deng
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target SilkTork
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target DaGizza
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Orlady
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Mark Arsten
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Daniel
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target NuclearWarfare
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Axl
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Addshore
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Philosopher
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Mlpearc
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target GiantSnowman
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Filelakeshoe
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Inks.LWC
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Webclient101
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Status
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Ched
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Érico Júnior Wouters
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Nyttend
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Someguy1221
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target AutomaticStrikeout
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Reaper Eternal
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Morning Sunshine
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Ks0stm
+    sign POSITIVE
+  ]
+  edge [
+    source Lord Roem
+    target Pedro
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target C678
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Deb
+    sign POSITIVE
+  ]
+  edge [
+    source Hut 8.5
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Hut 8.5
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Scottywong
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Scottywong
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Ks0stm
+    sign POSITIVE
+  ]
+  edge [
+    source Erik
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Erik
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target NuclearWarfare
+    sign POSITIVE
+  ]
+  edge [
+    source Graham87
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Graham87
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Vacation9
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Vacation9
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Vacation9
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Vacation9
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Hahc21
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Hahc21
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Hahc21
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Hahc21
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Hahc21
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Hahc21
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Hahc21
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Mr. Stradivarius
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Mr. Stradivarius
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Mr. Stradivarius
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Mr. Stradivarius
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Mr. Stradivarius
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Mr. Stradivarius
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Gilderien
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Gilderien
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Gilderien
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Gilderien
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Brookie
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Brookie
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Brookie
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Brookie
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Brookie
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Bluerasberry
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target King of Hearts
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target LlamaAl
+    sign POSITIVE
+  ]
+  edge [
+    source Jafeluv
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Jafeluv
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Armbrust
+    sign POSITIVE
+  ]
+  edge [
+    source LlamaAl
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source LlamaAl
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source LlamaAl
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source LlamaAl
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source LlamaAl
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source LlamaAl
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source LlamaAl
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Technical 13
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Technical 13
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source TParis
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source TParis
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Kurtis
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Mediran
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Garamond Lethe
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Jebus989
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target MONGO
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Wizardman
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target C678
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target The ed17
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Soap
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Kumioko
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Useight's Public Sock
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Inka 888
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Alanscottwalker
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Pol430
+    sign NEGATIVE
+  ]
+  edge [
+    source Jason Quinn
+    target MJ94
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Bishonen
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Torreslfchero
+    sign NEGATIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Miniapolis
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target WereSpielChequers
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Nick-D
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target James086
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Joe Decker
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Hobit
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Newyorkbrad
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Garion96
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Rschen7754
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Nouniquenames
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Stephen
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Ultraexactzz
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Lectonar
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Pichpich
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Aircorn
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Shawn in Montreal
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Spencer
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Pratyya Ghosh
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Jusdafax
+    sign NEGATIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Nathan Johnson
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Malcolmxl5
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Tazerdadog
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Secret
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Dainomite
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Ajraddatz
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Trusilver
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Hawkeye7
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Kraxler
+    sign NEGATIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Doctree
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target INeverCry
+    sign NEGATIVE
+  ]
+  edge [
+    source Jason Quinn
+    target My76Strat
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Airplaneman
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Rogerd
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Andrew Gray
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Paul Erik
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Mohamed CJ
+    sign NEGATIVE
+  ]
+  edge [
+    source Jason Quinn
+    target OlEnglish
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Kablammo
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Erik
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Graham87
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Vacation9
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Hahc21
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Gilderien
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Brookie
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target LlamaAl
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Dank
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Thumperward
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target CaSJer
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target RegentsPark
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Ktr101
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Peridon
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Boing! said Zebedee
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Carrite
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target X!
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Kiefer.Wolfowitz
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target OrenBochman
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target SilkTork
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Tryptofish
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target NuclearWarfare
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Axl
+    sign NEGATIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Addshore
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target GiantSnowman
+    sign NEGATIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Filelakeshoe
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Inks.LWC
+    sign NEGATIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Webclient101
+    sign NEGATIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Status
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Nyttend
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target BuickCenturyDriver
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target RayAYang
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Dennis Brown
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Someguy1221
+    sign NEGATIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Mkdw
+    sign NEGATIVE
+  ]
+  edge [
+    source Jason Quinn
+    target AutomaticStrikeout
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Reaper Eternal
+    sign NEGATIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Adjwilley
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Morning Sunshine
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Pedro
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Jasper Deng
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Orlady
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Rogerd
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Ultraexactzz
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target AGK
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target The Anonymouse
+    sign POSITIVE
+  ]
+  edge [
+    source Deb
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Deb
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Diannaa
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Diannaa
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Torreslfchero
+    sign POSITIVE
+  ]
+  edge [
+    source DanielTom
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source DanielTom
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target SmokeyJoe
+    sign POSITIVE
+  ]
+  edge [
+    source SmokeyJoe
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source SmokeyJoe
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source SmokeyJoe
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Miniapolis
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target DaGizza
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Kudpung
+    sign POSITIVE
+  ]
+  edge [
+    source Mazca
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Mazca
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Ronhjones
+    sign POSITIVE
+  ]
+  edge [
+    source Dank
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Dank
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Dank
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Dank
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Jschnur
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Jschnur
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Jschnur
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Timotheus Canens
+    sign POSITIVE
+  ]
+  edge [
+    source Titodutta
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Titodutta
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Cmach7
+    sign POSITIVE
+  ]
+  edge [
+    source Thumperward
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Thumperward
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Thumperward
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Themfromspace
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Ymblanter
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Stephen
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Boing! said Zebedee
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Kraxler
+    sign POSITIVE
+  ]
+  edge [
+    source CaSJer
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source CaSJer
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source CaSJer
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source CaSJer
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Scottywong
+    sign POSITIVE
+  ]
+  edge [
+    source RightCowLeftCoast
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source RightCowLeftCoast
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Brookie
+    sign POSITIVE
+  ]
+  edge [
+    source MelanieN
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source MelanieN
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source MelanieN
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source 99of9
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source 99of9
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source RegentsPark
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source RegentsPark
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source RegentsPark
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source RegentsPark
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source RegentsPark
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source RegentsPark
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Webclient101
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Alanscottwalker
+    sign POSITIVE
+  ]
+  edge [
+    source Ktr101
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Ktr101
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Ktr101
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Ktr101
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Ktr101
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target MelanieN
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Pichpich
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Someguy1221
+    sign POSITIVE
+  ]
+  edge [
+    source Peridon
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Peridon
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Peridon
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Peridon
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Peridon
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Peridon
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source John F. Lewis
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source John F. Lewis
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Razionale
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Ktr101
+    sign POSITIVE
+  ]
+  edge [
+    source Boing! said Zebedee
+    target Darkwind
+    sign NEGATIVE
+  ]
+  edge [
+    source Boing! said Zebedee
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Boing! said Zebedee
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Boing! said Zebedee
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Boing! said Zebedee
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Boing! said Zebedee
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Shawn in Montreal
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Piotrus
+    sign POSITIVE
+  ]
+  edge [
+    source EdJohnston
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source EdJohnston
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source EdJohnston
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Airplaneman
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Jan eissfeldt
+    sign POSITIVE
+  ]
+  edge [
+    source Monterey Bay
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Monterey Bay
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Thine Antique Pen
+    sign POSITIVE
+  ]
+  edge [
+    source Thine Antique Pen
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Thine Antique Pen
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Thine Antique Pen
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Thine Antique Pen
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Thine Antique Pen
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Shadowjams
+    sign POSITIVE
+  ]
+  edge [
+    source Carrite
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Carrite
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Carrite
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Carrite
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Carrite
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source JayJay
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source JayJay
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source X!
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source X!
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source X!
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source X!
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Kiefer.Wolfowitz
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Kiefer.Wolfowitz
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Kiefer.Wolfowitz
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Kiefer.Wolfowitz
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Kiefer.Wolfowitz
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Kiefer.Wolfowitz
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Joe Decker
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Pedro
+    sign POSITIVE
+  ]
+  edge [
+    source OrenBochman
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Jasper Deng
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Jasper Deng
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target 99of9
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Paul Erik
+    sign POSITIVE
+  ]
+  edge [
+    source SilkTork
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source SilkTork
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source SilkTork
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source SilkTork
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target WorldTraveller101
+    sign POSITIVE
+  ]
+  edge [
+    source DaGizza
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source DaGizza
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Tryptofish
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Tryptofish
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Tryptofish
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Tryptofish
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Tryptofish
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Tryptofish
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Ankit Maity
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Ankit Maity
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target PhilKnight
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Kurtis
+    sign POSITIVE
+  ]
+  edge [
+    source Chick Bowen
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Chick Bowen
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Widr
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target TBrandley
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Technical 13
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Jebus989
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Vacation9
+    sign POSITIVE
+  ]
+  edge [
+    source Orlady
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Orlady
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Guettarda
+    sign POSITIVE
+  ]
+  edge [
+    source Mark Arsten
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Mark Arsten
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Daniel
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Daniel
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target RayAYang
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Snow Blizzard
+    sign POSITIVE
+  ]
+  edge [
+    source Jason Quinn
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source NuclearWarfare
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source NuclearWarfare
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source NuclearWarfare
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Spencer
+    sign POSITIVE
+  ]
+  edge [
+    source Snow Blizzard
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Snow Blizzard
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source INeverCry
+    target Addshore
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Soap
+    sign POSITIVE
+  ]
+  edge [
+    source Tucoxn
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Tucoxn
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Tucoxn
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Tucoxn
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Axl
+    target INeverCry
+    sign NEGATIVE
+  ]
+  edge [
+    source Axl
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Axl
+    target Jason Quinn
+    sign NEGATIVE
+  ]
+  edge [
+    source Bilby
+    target Huon
+    sign POSITIVE
+  ]
+  edge [
+    source DGG
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source DGG
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Addshore
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Addshore
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Addshore
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Addshore
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Thumperward
+    sign POSITIVE
+  ]
+  edge [
+    source Stfg
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Stfg
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Philosopher
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Philosopher
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Philosopher
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Rzuwig
+    sign POSITIVE
+  ]
+  edge [
+    source Ronhjones
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Ronhjones
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Ronhjones
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Ronhjones
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Hut 8.5
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target KTC
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target IRWolfie-
+    sign POSITIVE
+  ]
+  edge [
+    source Marcus Qwertyus
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Marcus Qwertyus
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target BuickCenturyDriver
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Wikiwind
+    sign POSITIVE
+  ]
+  edge [
+    source Mlpearc
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Mlpearc
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source GiantSnowman
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source GiantSnowman
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source GiantSnowman
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source GiantSnowman
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source GiantSnowman
+    target Jason Quinn
+    sign NEGATIVE
+  ]
+  edge [
+    source GiantSnowman
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source GiantSnowman
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Carrite
+    sign POSITIVE
+  ]
+  edge [
+    source PumpkinSky
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source PumpkinSky
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Filelakeshoe
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Filelakeshoe
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Filelakeshoe
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Filelakeshoe
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Inks.LWC
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Inks.LWC
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Inks.LWC
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Inks.LWC
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Inks.LWC
+    target Jason Quinn
+    sign NEGATIVE
+  ]
+  edge [
+    source Inks.LWC
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Inks.LWC
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Mohamed CJ
+    sign POSITIVE
+  ]
+  edge [
+    source Webclient101
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Webclient101
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Webclient101
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Webclient101
+    target Jason Quinn
+    sign NEGATIVE
+  ]
+  edge [
+    source Webclient101
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Webclient101
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Intothatdarkness
+    target Darkwind
+    sign NEGATIVE
+  ]
+  edge [
+    source Intothatdarkness
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Kurtis
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target MONGO
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Wizardman
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target KumiokoCleanStart
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Pharaoh of the Wizards
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Kudpung
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Rzuwig
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target 069952497a
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Ret.Prof
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Widr
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Northamerica1000
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Miniapolis
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Newyorkbrad
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target NintendoFan
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Pratyya Ghosh
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Jusdafax
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Dainomite
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Stalwart111
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Trusilver
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target MrX
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Go Phightins!
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Kierzek
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Doctree
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target SlimVirgin
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Ignatzmice
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target King of Hearts
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Hahc21
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Mr. Stradivarius
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Gilderien
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target LlamaAl
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Technical 13
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Deb
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target SmokeyJoe
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target CaSJer
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target RightCowLeftCoast
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target RegentsPark
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Peridon
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Boing! said Zebedee
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target EdJohnston
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Monterey Bay
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Carrite
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Kiefer.Wolfowitz
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Tryptofish
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Tucoxn
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target DGG
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Ronhjones
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target GiantSnowman
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Inks.LWC
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Intothatdarkness
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Dwaipayanc
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Bluerasberry
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Dennis Brown
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Someguy1221
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Mkdw
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target AutomaticStrikeout
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Reaper Eternal
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Adjwilley
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Tolly4bolly
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target WereSpielChequers
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Tolly4bolly
+    sign POSITIVE
+  ]
+  edge [
+    source Status
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Status
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Status
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Status
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Danger
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Salvio giuliano
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target The ed17
+    sign POSITIVE
+  ]
+  edge [
+    source Ched
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Ched
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Dwaipayanc
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Dwaipayanc
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Stfg
+    sign POSITIVE
+  ]
+  edge [
+    source Bluerasberry
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Bluerasberry
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Bluerasberry
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Kurtis
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Mediran
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Jebus989
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target MONGO
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Wizardman
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target C678
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Soap
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target KTC
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target KumiokoCleanStart
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Salvio giuliano
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target I am One of Many
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Kudpung
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Pol430
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target 069952497a
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target MJ94
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Ret.Prof
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Widr
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Sven Manguard
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target TCN7JM
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Miniapolis
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Mabdul
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Joe Decker
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Steven Zhang
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Newyorkbrad
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target RockMagnetist
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Rschen7754
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Stephen
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Ymblanter
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Sparklism
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Pratyya Ghosh
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Camyoung54
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Shadowjams
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Nathan Johnson
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Tazerdadog
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Secret
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Dainomite
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Cncmaster
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Stalwart111
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Piotrus
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Trusilver
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target TBrandley
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target The Anonymouse
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target MrX
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Go Phightins!
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Yunshui
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Doctree
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target My76Strat
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target SlimVirgin
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Rogerd
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Huon
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target QuiteUnusual
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Amorymeltzer
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target WorldTraveller101
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target King of Hearts
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Theopolisme
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target OlEnglish
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Vacation9
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Hahc21
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Mr. Stradivarius
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Jafeluv
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target LlamaAl
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target DanielTom
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Mazca
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Jschnur
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target RegentsPark
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Ktr101
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Peridon
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Razionale
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Boing! said Zebedee
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Thine Antique Pen
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target X!
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Kiefer.Wolfowitz
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Tryptofish
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Ankit Maity
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Chick Bowen
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Snow Blizzard
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Tucoxn
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target DGG
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Addshore
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Stfg
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Philosopher
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Ronhjones
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target GiantSnowman
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target PumpkinSky
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Inks.LWC
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Webclient101
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Dennis Brown
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target HMSSolent
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Someguy1221
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Scray
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Mkdw
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target AutomaticStrikeout
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target IRWolfie-
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Reaper Eternal
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Adjwilley
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Tolly4bolly
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Snowolf
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Armbrust
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target ZappaOMati
+    sign POSITIVE
+  ]
+  edge [
+    source Legoktm
+    target Ks0stm
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Status
+    sign POSITIVE
+  ]
+  edge [
+    source Érico Júnior Wouters
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Érico Júnior Wouters
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Nyttend
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Nyttend
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Nyttend
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Nyttend
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Nyttend
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Pol430
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Erik
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Lectonar
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target MJ94
+    sign POSITIVE
+  ]
+  edge [
+    source BuickCenturyDriver
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source BuickCenturyDriver
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source BuickCenturyDriver
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source RayAYang
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source RayAYang
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Dwaipayanc
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Cncmaster
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Tazerdadog
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Nathan Johnson
+    sign POSITIVE
+  ]
+  edge [
+    source PhilKnight
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source PhilKnight
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Kaldari
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Aircorn
+    sign POSITIVE
+  ]
+  edge [
+    source Dennis Brown
+    target Darkwind
+    sign NEGATIVE
+  ]
+  edge [
+    source Dennis Brown
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Dennis Brown
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Dennis Brown
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Dennis Brown
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Dennis Brown
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source HMSSolent
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source HMSSolent
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Tryptofish
+    sign POSITIVE
+  ]
+  edge [
+    source Someguy1221
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Someguy1221
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Someguy1221
+    target Jason Quinn
+    sign NEGATIVE
+  ]
+  edge [
+    source Someguy1221
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Someguy1221
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Someguy1221
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Wizardman
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Trusilver
+    sign POSITIVE
+  ]
+  edge [
+    source Scray
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Scray
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Scray
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Mkdw
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Mkdw
+    target Jason Quinn
+    sign NEGATIVE
+  ]
+  edge [
+    source Mkdw
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Mkdw
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source AutomaticStrikeout
+    target Darkwind
+    sign NEGATIVE
+  ]
+  edge [
+    source AutomaticStrikeout
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source AutomaticStrikeout
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source AutomaticStrikeout
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source AutomaticStrikeout
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source AutomaticStrikeout
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source AutomaticStrikeout
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target RockMagnetist
+    sign POSITIVE
+  ]
+  edge [
+    source IRWolfie-
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source IRWolfie-
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Darkwind
+    target Snowolf
+    sign POSITIVE
+  ]
+  edge [
+    source Reaper Eternal
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Reaper Eternal
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source Reaper Eternal
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Reaper Eternal
+    target Jason Quinn
+    sign NEGATIVE
+  ]
+  edge [
+    source Reaper Eternal
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Reaper Eternal
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Adjwilley
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Adjwilley
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Adjwilley
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Adjwilley
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Adjwilley
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Morning Sunshine
+    target INeverCry
+    sign POSITIVE
+  ]
+  edge [
+    source Morning Sunshine
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Morning Sunshine
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Tolly4bolly
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Tolly4bolly
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source Tolly4bolly
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Snowolf
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Snowolf
+    target Darkwind
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target HMSSolent
+    sign POSITIVE
+  ]
+  edge [
+    source Armbrust
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source Armbrust
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source ZappaOMati
+    target Bilby
+    sign POSITIVE
+  ]
+  edge [
+    source ZappaOMati
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Ks0stm
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Ks0stm
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Ks0stm
+    target Legoktm
+    sign POSITIVE
+  ]
+  edge [
+    source Pedro
+    target Lord Roem
+    sign POSITIVE
+  ]
+  edge [
+    source Pedro
+    target Jason Quinn
+    sign POSITIVE
+  ]
+  edge [
+    source Pedro
+    target BDD
+    sign POSITIVE
+  ]
+  edge [
+    source BDD
+    target Mediran
+    sign POSITIVE
+  ]
+  edge [
+    source Bilby
+    target Nick-D
+    sign POSITIVE
+  ]
+]
